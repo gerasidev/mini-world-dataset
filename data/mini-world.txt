@@ -1,0 +1,7609 @@
+the bird of alice eats seeds.
+
+the window is in the kitchen.
+mary finds the window.
+mary takes the window.
+the truck is blue.
+the cat eats fish in the house.
+the road is in the village.
+the car comes from the village.
+the rabbit is an animal but the bike is a vehicle.
+alice sits on the bed in the park.
+alice likes her bird.
+the garden is in the village.
+the bike belongs to anna.
+the city has a green chair.
+the truck moves on the road and the truck is blue.
+this bus is brown.
+the duck is blue.
+
+john walks with the cat in the village.
+the cat sees a book.
+the cat plays with the book.
+the cat is brown.
+carrot is food for the rabbit.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+a bird lives in the tree.
+a rabbit lives in the garden.
+a rabbit is an animal.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+the dog eats meat in the house.
+tom goes to the kitchen with his horse.
+the truck is a vehicle.
+anna sees the rabbit near the train.
+the yellow door is in the farm.
+the fish plays with a chair.
+the car of bob is brown.
+this is the village.
+bob likes his car.
+
+anna is in the river.
+anna sees the table.
+the table is green.
+anna has a bike.
+this car is blue.
+a bird likes seeds.
+
+john has a cat.
+the cat sees a fish.
+the cat eats the fish.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+the truck is white.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+the yellow bed is in the road.
+the ball is near the table.
+this car is yellow.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+a boat is a vehicle.
+the rabbit comes from the garden and goes to the room.
+john sees his cat.
+the bird is green.
+the white train moves on the railway.
+a truck is a vehicle.
+the window is under the bed.
+the horse is blue.
+a box is in the room.
+anna goes on the train.
+
+alice has a bird.
+the bird likes seeds.
+john sees the dog near the car.
+the bike of anna is yellow.
+the duck is yellow.
+this is a cow.
+the bike is white.
+the park has a blue ball.
+
+the window is in the park.
+tom finds the window.
+tom takes the window.
+the horse lives on the farm.
+the cow runs in the lake.
+the horse lives on the farm but the truck is on the road.
+bob sees the cow near the bus.
+the cat comes from the house and goes to the room.
+bob drives the car.
+mary sees the duck near the car.
+
+the bed is in the garden.
+bob finds the bed.
+bob takes the bed.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+tom likes his horse.
+this is a cat.
+anna rides the bike on the road.
+mary is at the house.
+
+the ball is in the road.
+alice finds the ball.
+alice takes the ball.
+the bird walks in the kitchen.
+this is the room.
+this is the lake.
+
+tom is in the city.
+tom sees the book.
+the book is brown.
+the dog sits in the house.
+
+mary has a dog.
+the dog likes meat.
+
+tom is in the village.
+tom sees the table.
+the table is black.
+mary sits on the table in the school.
+this is a fish.
+the rabbit lives in the garden but the boat is on the water.
+
+alice has a bird.
+the bird likes seeds.
+anna gives the ball to tom.
+alice likes her bird.
+the bike is green.
+john finds the chair in the kitchen.
+john sees his cat.
+
+alice walks with the bird in the park.
+the bird sees a window.
+the bird plays with the window.
+the cat runs in the school.
+the window is in the room.
+
+the bike is at the park.
+anna goes on the bike.
+the bike moves on the road.
+john has a cat.
+tom gives grass to the horse.
+the duck walks in the house.
+
+the car is green.
+bob drives the green car.
+the horse of tom eats grass.
+
+alice has a bird.
+the bird likes seeds.
+the chair is on the table.
+the car moves on the road.
+
+the chair is in the park.
+alice finds the chair.
+alice takes the chair.
+the red boat is near the room and the cow is in the room.
+
+alice has a bird.
+the bird likes seeds.
+
+bob has a car.
+the car is blue.
+the car moves on the road.
+alice likes the cow and the boat.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+this is mary.
+
+john walks with the cat in the city.
+the cat sees a book.
+the cat plays with the book.
+
+alice walks with the bird in the room.
+the bird sees a ball.
+the bird plays with the ball.
+the door is in the lake.
+the cow is an animal and the bike is a vehicle.
+tom likes his horse.
+the box is in the park.
+the bird of alice eats seeds.
+alice takes the bird to the village.
+a fish is an animal.
+the fish sits in the water.
+tom drives the black truck.
+a duck lives in the lake.
+tom gives grass to the horse.
+the duck walks in the river.
+anna likes her bike.
+the horse eats grass.
+mary goes to the garden with her dog.
+
+john walks with the cat in the city.
+the cat sees a box.
+the cat plays with the box.
+the window is yellow.
+this is a duck.
+john finds fish and the cat eats the fish.
+the cow is an animal and the boat is a vehicle.
+the duck is an animal.
+
+anna is in the village.
+anna sees the door.
+the door is blue.
+the bike belongs to anna.
+the bird of alice eats seeds.
+the horse belongs to tom.
+this is anna.
+the truck is near the room.
+the door is near the bed.
+the cat is blue.
+alice likes her bird.
+
+the book is in the house.
+anna finds the book.
+anna takes the book.
+tom and the horse walk in the river.
+mary goes on the boat.
+the book is under the box.
+a car moves on the road.
+the window is in the farm.
+bob and the car walk in the lake.
+anna sees her bike.
+the chair is in the room.
+tom likes the fish and the boat.
+alice likes her bird.
+anna finds the window in the farm.
+the bus moves on the road and the bus is brown.
+a boat is a vehicle.
+mary likes the dog and the bike.
+a truck moves on the road.
+bob sees his car.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+the cow comes from the farm and goes to the room.
+the mouse eats bread.
+the bag is near the box.
+anna drives the truck.
+tom sees the dog near the truck.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+anna likes the rabbit and the car.
+
+alice has a bird.
+the bird likes seeds.
+bob sees his car.
+the cow finds grass.
+the car is white.
+the duck sleeps in the park.
+alice takes the bird to the road.
+the blue boat moves on the water.
+the bag is under the box.
+the park is in the city.
+the white train moves on the railway.
+the duck comes from the lake and goes to the house.
+a cat is an animal.
+bob sees his car.
+the horse comes from the farm and goes to the garden.
+
+the car is yellow.
+bob drives the yellow car.
+the dog sleeps in the house.
+the bird sees the table.
+the horse drinks water.
+anna likes her bike.
+the cat runs in the city.
+the horse is white.
+mary goes on the truck.
+
+bob is in the room.
+bob sees the table.
+the table is black.
+the mouse sits in the kitchen.
+this bike is brown.
+alice takes the book.
+the train moves on the railway.
+the green boat is near the school and the mouse is in the school.
+john is at the school.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the city.
+this is bob.
+
+mary walks with the dog in the village.
+the dog sees a chair.
+the dog plays with the chair.
+tom gives grass to his horse.
+the fish sleeps in the farm.
+
+john has a cat.
+the cat likes fish.
+the door is in the room.
+the mouse lives in the kitchen but the boat is on the water.
+anna has a bike.
+the dog finds meat.
+the boat is a vehicle.
+alice takes the chair.
+bob sits on the table in the kitchen.
+the duck walks in the river.
+the cat runs in the park.
+
+anna is in the kitchen.
+anna sees the box.
+the box is blue.
+a ball is in the farm.
+
+john is in the school.
+john sees the chair.
+the chair is white.
+the mouse sits in the kitchen.
+anna sees her bike.
+alice sees her bird.
+the door is in the house.
+anna gives the book to john.
+the truck moves on the road.
+the ball is red.
+the horse is an animal and the train is a vehicle.
+the bed is on the bed.
+the bird plays with a ball.
+a train moves on the railway.
+the river has a window.
+
+the chair is in the lake.
+tom finds the chair.
+tom takes the chair.
+
+mary is in the lake.
+mary sees the box.
+the box is black.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+
+the bike is at the village.
+anna goes on the bike.
+the bike moves on the road.
+the bus comes from the garden.
+the fish lives in the water but the bike is on the road.
+the ball is near the chair.
+the dog is an animal.
+the dog likes meat because meat is food.
+the black bus moves on the road.
+the boat moves on the water.
+the cow eats grass and the truck moves on the road.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+the door is under the chair.
+the duck lives in the lake.
+mary sits on the box in the city.
+the horse is blue.
+the road has a white chair.
+john takes the cat to the garden.
+john sees his cat.
+john gives fish to the cat.
+mary gives meat to the dog.
+
+john is in the farm.
+john sees the ball.
+the ball is blue.
+grass is food for the cow.
+the bird of alice eats seeds.
+a dog lives in the house.
+this is the lake.
+mary likes the cow and the bus.
+the truck comes from the city.
+the mouse eats bread in the kitchen.
+john sees his cat.
+seeds is food for the fish.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+the boat moves on the water and the boat is green.
+a bird likes seeds.
+john sees his cat.
+the fish eats seeds.
+this is a rabbit.
+the green boat is at the park.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+
+mary is in the school.
+mary sees the ball.
+the ball is black.
+the door is in the lake.
+the bike moves on the road.
+the bike belongs to anna.
+a horse is an animal.
+john gives seeds to the bird because the bird likes seeds.
+bob sees his car.
+tom goes to the farm with his horse.
+the cat plays with a bag.
+the bird is an animal.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+this is a mouse.
+the mouse eats bread and the car moves on the road.
+the blue chair is in the park.
+the rabbit likes carrot because carrot is food.
+the rabbit plays with a window.
+the bike moves on the road.
+alice finds seeds and the bird eats the seeds.
+this bike is black.
+the horse is brown.
+mary takes the dog to the garden.
+
+mary has a dog.
+the dog likes meat.
+the dog sleeps in the road.
+the horse belongs to tom.
+a mouse lives in the kitchen.
+
+alice is in the lake.
+alice sees the bag.
+the bag is green.
+the book is on the table and the ball is under the table.
+the school has a box.
+the car of bob is red.
+the black truck is near the lake and the fish is in the lake.
+the mouse is black.
+the house has a box.
+the cat is red.
+the rabbit is an animal.
+the duck lives in the lake.
+the dog drinks water.
+this car is brown.
+the house has a box.
+the rabbit drinks water.
+the cat is an animal and the boat is a vehicle.
+mary likes the dog and the bike.
+the book is brown.
+
+the ball is in the village.
+bob finds the ball.
+bob takes the ball.
+alice goes to the village with her bird.
+
+the bed is in the road.
+bob finds the bed.
+bob takes the bed.
+the lake is in the city.
+the dog eats meat.
+the bus comes from the room.
+the ball is near the chair.
+
+alice has a bird.
+the bird likes seeds.
+the truck moves on the road.
+bob and the car walk in the road.
+the horse comes from the farm and goes to the road.
+the horse comes from the farm.
+this is mary.
+a car moves on the road.
+the dog lives in the house.
+the mouse drinks water.
+a boat moves on the water.
+the truck comes from the road.
+alice drives the green car.
+the window is in the city.
+tom has a horse.
+the cow sees the door.
+the duck eats seeds and the train moves on the railway.
+a cow is an animal.
+the cat belongs to john.
+the truck moves on the road and the truck is green.
+the car is blue.
+this bus is yellow.
+the mouse comes from the kitchen.
+mary takes the dog to the kitchen.
+seeds is food for the fish.
+the red window is in the kitchen.
+the blue boat moves on the water.
+the white car moves on the road.
+the bike belongs to anna.
+tom goes on the boat.
+this is a bird.
+mary likes the cow and the boat.
+the bird sleeps in the lake.
+john sees the bird near the boat.
+the car of bob is yellow.
+bob has a car.
+the duck runs in the farm.
+john goes to the village with his cat.
+the horse is an animal.
+
+the ball is in the school.
+tom finds the ball.
+tom takes the ball.
+the yellow bus is at the kitchen.
+the road is in the city.
+a dog lives in the house.
+the bike is a vehicle.
+the duck is an animal and the car is a vehicle.
+
+the bed is in the city.
+bob finds the bed.
+bob takes the bed.
+the bus moves on the road and the bus is brown.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+the dog lives in the house.
+anna and the bike walk in the river.
+the kitchen is in the village.
+the mouse likes bread because bread is food.
+the bike belongs to anna.
+the green bus moves on the road.
+bob sees his car.
+the fish likes seeds because seeds is food.
+the car moves on the road and the car is green.
+the river has a blue box.
+alice goes to the city with her bird.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+a mouse likes bread.
+
+the ball is in the city.
+alice finds the ball.
+alice takes the ball.
+a bed is in the school.
+the bird of alice eats seeds.
+a truck moves on the road.
+john drives the red car.
+
+the table is in the house.
+tom finds the table.
+tom takes the table.
+the cat walks in the room.
+the box is in the city.
+the duck likes seeds because seeds is food.
+
+tom has a horse.
+the horse likes grass.
+
+alice walks with the bird in the farm.
+the bird sees a ball.
+the bird plays with the ball.
+anna sits on the box in the garden.
+the dog eats meat in the house.
+a cat lives in the house.
+the car of bob is yellow.
+mary is at the kitchen.
+the bus is near the garden.
+bob sits on the table in the road.
+the rabbit is an animal.
+the mouse is green.
+john gives seeds to the duck because the duck likes seeds.
+the cow lives on the farm but the truck is on the road.
+bob goes to the farm with his car.
+alice goes to the house with her bird.
+mary sees her dog in the house.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+
+the chair is in the park.
+bob finds the chair.
+bob takes the chair.
+tom takes the horse to the house.
+a truck moves on the road.
+a bed is in the house.
+john finds fish and the cat eats the fish.
+this is the park.
+the bus is a vehicle.
+a fish is an animal.
+the bike of anna is black.
+tom has a horse.
+a cow is an animal.
+
+the door is in the park.
+alice finds the door.
+alice takes the door.
+the rabbit likes carrot because carrot is food.
+the truck is a vehicle.
+
+anna is in the city.
+anna sees the box.
+the box is brown.
+seeds is food for the bird.
+alice sees her bird.
+a horse likes grass.
+the red door is in the river.
+tom gives grass to his horse.
+the bus is a vehicle.
+a cow likes grass.
+the duck sleeps in the village.
+the park has a window.
+the bike is a vehicle.
+anna gives the box to alice.
+a rabbit lives in the garden.
+john goes on the car.
+mary gives meat to the dog.
+tom sees the cat near the train.
+alice sees her bird in the tree.
+the rabbit drinks water.
+bob drives the car on the road.
+the car is green.
+the bike is white.
+
+bob has a car.
+the car is brown.
+the car moves on the road.
+
+the window is in the city.
+alice finds the window.
+alice takes the window.
+the horse drinks water.
+the boat comes from the lake.
+the chair is under the box.
+the boat is black.
+the school is in the city.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+anna sees the fish near the bus.
+the book is on the table and the ball is under the table.
+the fish comes from the water.
+the window is on the chair.
+
+john is in the school.
+john sees the box.
+the box is green.
+the mouse sits in the kitchen.
+the blue truck is near the river and the rabbit is in the river.
+bob drives the car on the road.
+the dog sees the door and the dog plays with the door.
+the duck walks in the park.
+the duck lives in the lake.
+a duck likes seeds.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+alice and the bird walk in the room.
+mary gives carrot to the rabbit because the rabbit likes carrot.
+anna goes on the bus.
+anna takes the bike to the school.
+the truck moves on the road and the truck is green.
+the book is in the garden.
+the boat is near the room.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+the car moves on the road.
+the mouse runs in the house.
+the brown table is in the city.
+
+mary has a dog.
+the dog likes meat.
+
+the bed is in the river.
+john finds the bed.
+john takes the bed.
+the bus moves on the road and the bus is red.
+mary finds meat and the dog eats the meat.
+meat is food for the dog.
+
+mary is in the river.
+mary sees the chair.
+the chair is brown.
+the rabbit sees the table.
+tom sees his horse in the farm.
+the kitchen has a blue bag.
+a fish lives in the water.
+john has a cat.
+anna rides the bike.
+a cow is an animal.
+the rabbit is red.
+the car is a vehicle.
+
+the bike is blue.
+anna rides the blue bike.
+a dog is an animal.
+this is bob.
+the bike belongs to anna.
+alice takes the bag.
+the room has a book.
+the black car is at the kitchen.
+alice rides the black bike.
+the red ball is in the garden.
+
+the door is in the city.
+john finds the door.
+john takes the door.
+the yellow truck is near the kitchen and the dog is in the kitchen.
+the rabbit sees the bag and the rabbit plays with the bag.
+
+the box is in the city.
+bob finds the box.
+bob takes the box.
+the truck comes from the river.
+the dog drinks water.
+the boat moves on the water.
+the mouse sits in the kitchen.
+
+bob has a car.
+the car is red.
+the car moves on the road.
+
+anna has a bike.
+the bike is white.
+the bike moves on the road.
+the book is in the kitchen.
+bread is food for the mouse.
+this is a rabbit.
+the rabbit comes from the garden.
+tom gives grass to the horse.
+the door is in the farm.
+the door is under the box.
+the train moves on the railway and the train is red.
+the mouse finds bread.
+the duck eats seeds.
+the park has a yellow door.
+the window is under the table.
+
+alice has a bird.
+the bird likes seeds.
+the bird runs in the room.
+the cat sits in the house.
+the red bus moves on the road.
+this is the lake.
+the bed is under the chair.
+the yellow table is in the river.
+anna rides the boat.
+the park is in the city.
+the dog runs in the road.
+this boat is brown.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+the city has a brown chair.
+this is tom.
+the window is in the school.
+the duck comes from the lake.
+the cow runs in the park.
+a duck is an animal.
+the cow is an animal but the bike is a vehicle.
+the car of bob is red.
+
+the box is in the lake.
+bob finds the box.
+bob takes the box.
+the dog likes meat because meat is food.
+tom goes on the train.
+the car moves on the road.
+bob likes the fish and the bike.
+tom sees his horse in the farm.
+the mouse sits in the kitchen.
+tom goes to the road with his horse.
+mary takes the dog to the school.
+a horse is an animal.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+the bus moves on the road.
+tom gives grass to the horse.
+the bird is an animal and the car is a vehicle.
+mary and the dog walk in the house.
+alice is at the river.
+the rabbit is red.
+
+the book is in the park.
+tom finds the book.
+tom takes the book.
+anna takes the bike to the park.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+the truck is green.
+tom gives grass to his horse.
+the park has a brown box.
+
+john has a cat.
+the cat sees a fish.
+the cat eats the fish.
+
+alice walks with the bird in the farm.
+the bird sees a bag.
+the bird plays with the bag.
+the farm has a window.
+the duck lives in the lake.
+a train is a vehicle.
+the cat comes from the house.
+the brown window is in the lake.
+the bike is near the farm.
+the window is on the box.
+the black bike is at the park.
+john sees the fish near the bike.
+anna is at the room.
+tom takes the book.
+bob has a car.
+the duck runs in the school.
+the ball is in the kitchen.
+bob likes the cow and the train.
+alice goes to the farm with her bird.
+a car is a vehicle.
+anna goes to the park with her bike.
+john sees his cat.
+the dog finds meat.
+
+the table is in the room.
+john finds the table.
+john takes the table.
+the dog eats meat.
+bob finds the bag in the lake.
+
+the bike is at the river.
+anna goes on the bike.
+the bike moves on the road.
+the yellow table is in the room.
+alice sits on the table in the kitchen.
+tom drives the truck.
+
+anna has a bike.
+the bike is red.
+the bike moves on the road.
+the truck comes from the house.
+bob rides the boat.
+the cow sees the box and the cow plays with the box.
+anna likes the bird and the car.
+the blue boat is at the farm.
+alice and the bird walk in the school.
+john likes the bird and the bus.
+the red box is in the lake.
+the dog comes from the house and goes to the river.
+john likes his cat.
+carrot is food for the rabbit.
+a fish lives in the water.
+the cat of john eats fish.
+the rabbit sits in the garden.
+the red box is in the river.
+this is the road.
+the car of bob is black.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+the rabbit sees the bed and the rabbit plays with the bed.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the bird drinks water.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+the window is in the road.
+alice sees the fish near the bike.
+mary and the dog walk in the house.
+the cat comes from the house.
+the duck likes seeds because seeds is food.
+a bird lives in the tree.
+the boat is a vehicle.
+the bird eats seeds.
+the duck walks in the garden.
+this is a cat.
+this boat is brown.
+a cat is an animal.
+a horse lives on the farm.
+the fish is an animal.
+alice sits on the table in the village.
+the window is in the road.
+the red bus moves on the road.
+the yellow truck is near the garden and the horse is in the garden.
+bob and the car walk in the village.
+the bird of alice eats seeds.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+the car moves on the road.
+the bus moves on the road and the bus is brown.
+the duck comes from the lake and goes to the garden.
+the bird belongs to alice.
+mary sees the mouse near the train.
+the red boat moves on the water.
+this truck is white.
+this is tom.
+
+anna is in the school.
+anna sees the box.
+the box is red.
+mary rides the white train.
+john goes to the city with his cat.
+alice and the bird walk in the village.
+alice gives carrot to the rabbit because the rabbit likes carrot.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+the mouse is an animal but the boat is a vehicle.
+the cow eats grass and the bike moves on the road.
+a mouse likes bread.
+the ball is in the road.
+the cat eats fish and the train moves on the railway.
+john and the cat walk in the kitchen.
+the fish sits in the water.
+
+anna has a bike.
+the bike is white.
+the bike moves on the road.
+the cow sits on the farm.
+tom finds grass and the horse eats the grass.
+the door is in the village.
+alice sits on the bed in the house.
+a horse is an animal.
+a dog lives in the house.
+tom gives grass to his horse.
+the bird sees the box.
+
+john has a cat.
+the cat likes fish.
+the fish eats seeds and the bike moves on the road.
+this boat is white.
+
+the window is in the village.
+john finds the window.
+john takes the window.
+the fish eats seeds in the water.
+the rabbit drinks water.
+the mouse is blue.
+the fish sees the book and the fish plays with the book.
+this is the lake.
+bob sees the rabbit near the car.
+a rabbit lives in the garden.
+the horse sits on the farm.
+this bike is yellow.
+the window is in the village.
+the mouse sees the bed and the mouse plays with the bed.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+mary gives meat to the dog.
+this is a cow.
+a bus moves on the road.
+mary takes the dog to the garden.
+the mouse sits in the kitchen.
+the cow finds grass.
+tom takes the horse to the park.
+the fish sees the table and the fish plays with the table.
+the boat comes from the school.
+a bike is a vehicle.
+a fish is an animal.
+the cow eats grass and the car moves on the road.
+bob drives the car on the road.
+tom gives grass to the horse.
+the yellow bag is in the kitchen.
+tom finds grass and the horse eats the grass.
+the horse comes from the farm.
+anna sees her bike.
+
+alice has a bird.
+the bird likes seeds.
+this is alice.
+the bike belongs to anna.
+tom gives grass to his horse.
+the dog sees the ball.
+tom takes the horse to the farm.
+the cat runs in the lake.
+
+mary is in the village.
+mary sees the chair.
+the chair is yellow.
+anna goes to the school with her bike.
+
+the bike is red.
+anna rides the red bike.
+this is a duck.
+the truck is a vehicle.
+alice goes to the school with her bird.
+a duck likes seeds.
+the ball is white.
+the mouse eats bread and the truck moves on the road.
+a bird likes seeds.
+
+the car is at the school.
+bob goes on the car.
+the car moves on the road.
+john gives fish to his cat.
+the dog comes from the house and goes to the village.
+the car moves on the road.
+bob and the car walk in the village.
+the white car is at the school.
+the mouse walks in the city.
+the car moves on the road.
+the dog eats meat.
+tom rides the brown boat.
+anna sees her bike.
+the bird sees the ball.
+the dog sleeps in the kitchen.
+the train moves on the railway and the train is black.
+the mouse lives in the kitchen.
+the mouse drinks water.
+the red table is in the village.
+anna goes on the bike.
+the yellow truck is at the road.
+the horse sleeps in the road.
+the bed is blue.
+a window is in the road.
+
+tom is in the village.
+tom sees the box.
+the box is green.
+the bike is white.
+bob finds the ball in the garden.
+alice drives the yellow car.
+the cow eats grass.
+the cat drinks water.
+a duck is an animal.
+the dog is white.
+the dog finds meat.
+the fish plays with a bed.
+
+tom has a horse.
+the horse likes grass.
+mary drives the white truck.
+the mouse is an animal but the boat is a vehicle.
+the cow runs in the kitchen.
+alice sees her bird in the tree.
+john takes the cat to the room.
+mary rides the bike.
+the rabbit drinks water.
+this is a cow.
+a bird is an animal.
+
+the bed is in the house.
+bob finds the bed.
+bob takes the bed.
+tom rides the boat.
+tom and the horse walk in the village.
+the blue door is in the school.
+mary and the dog walk in the room.
+the horse sees the door.
+alice gives seeds to her bird.
+this is john.
+mary goes to the house with her dog.
+mary rides the white boat.
+anna goes to the school with her bike.
+seeds is food for the bird.
+the black chair is in the kitchen.
+
+bob is in the farm.
+bob sees the box.
+the box is green.
+the bag is on the box.
+
+alice has a bird.
+the bird likes seeds.
+alice gives grass to the cow because the cow likes grass.
+mary is at the room.
+the cow eats grass in the farm.
+the fish sits in the water.
+the horse comes from the farm and goes to the room.
+john rides the train.
+anna is at the city.
+tom has a horse.
+mary finds meat and the dog eats the meat.
+the truck moves on the road.
+mary sees her dog in the house.
+the car of bob is black.
+anna gives the book to mary.
+the fish likes seeds because seeds is food.
+the river has a black chair.
+the truck moves on the road.
+this is a horse.
+the truck moves on the road and the truck is black.
+the garden has a black door.
+
+the book is in the farm.
+tom finds the book.
+tom takes the book.
+the ball is on the box.
+the car moves on the road.
+bob goes on the bus.
+a bag is in the road.
+
+alice is in the school.
+alice sees the chair.
+the chair is yellow.
+
+bob is in the river.
+bob sees the chair.
+the chair is green.
+the cow eats grass and the truck moves on the road.
+a bike moves on the road.
+the horse comes from the farm.
+anna and the bike walk in the village.
+the train is yellow.
+tom has a horse.
+the truck is near the park.
+this is bob.
+the car belongs to bob.
+the fish is an animal and the train is a vehicle.
+the cow sleeps in the river.
+
+john has a cat.
+the cat sees a fish.
+the cat eats the fish.
+tom gives the table to mary.
+this is a dog.
+mary gives seeds to the fish because the fish likes seeds.
+
+anna is in the road.
+anna sees the chair.
+the chair is white.
+the road has a chair.
+
+john is in the house.
+john sees the book.
+the book is white.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+the cat sees the chair and the cat plays with the chair.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+the ball is on the chair.
+a bird likes seeds.
+the window is in the park.
+the duck likes seeds because seeds is food.
+the dog sees the door and the dog plays with the door.
+john sits on the box in the city.
+the mouse comes from the kitchen.
+
+john is in the garden.
+john sees the book.
+the book is blue.
+the horse eats grass and the bike moves on the road.
+the fish sits in the water.
+the cat is an animal but the bike is a vehicle.
+john gives fish to the cat.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+the horse eats grass and the truck moves on the road.
+the mouse sits in the kitchen.
+the rabbit sees the box.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+the boat is a vehicle.
+bob is at the garden.
+
+alice has a bird.
+the bird likes seeds.
+a cat lives in the house.
+grass is food for the cow.
+the book is on the table and the ball is under the table.
+the white boat is at the road.
+alice finds the book in the house.
+the white train moves on the railway.
+alice gives seeds to the bird.
+the cat likes fish because fish is food.
+anna and the bike walk in the house.
+the duck plays with a bed.
+the duck eats seeds.
+the truck is near the house.
+this bike is black.
+the duck eats seeds.
+the rabbit drinks water.
+the book is on the table and the ball is under the table.
+
+john has a cat.
+the cat sees a fish.
+the cat eats the fish.
+john goes on the car.
+bob has a car.
+the duck sees the door and the duck plays with the door.
+john sees his cat.
+mary and the dog walk in the farm.
+the bird walks in the school.
+alice goes to the river with her bird.
+the green bed is in the kitchen.
+
+the bike is at the city.
+anna goes on the bike.
+the bike moves on the road.
+the mouse walks in the city.
+the kitchen has a bag.
+the horse comes from the farm.
+the fish runs in the river.
+this is mary.
+the rabbit sleeps in the village.
+the bird is an animal but the bus is a vehicle.
+john sits on the bed in the room.
+mary has a dog.
+
+the ball is in the room.
+john finds the ball.
+john takes the ball.
+the box is near the chair.
+a mouse lives in the kitchen.
+the cat plays with a bed.
+this is tom.
+the bird plays with a book.
+seeds is food for the duck.
+the train is green.
+the truck moves on the road and the truck is brown.
+the bike is blue.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+
+tom has a horse.
+the horse likes grass.
+alice sees her bird.
+the door is in the road.
+the black bus is at the city.
+bob and the car walk in the lake.
+the bird comes from the tree and goes to the farm.
+alice gives the box to bob.
+alice is at the river.
+the horse eats grass.
+the horse comes from the farm.
+the duck likes seeds because seeds is food.
+the horse is brown.
+tom gives grass to his horse.
+the green truck moves on the road.
+the duck runs in the garden.
+the fish sees the ball.
+the white boat moves on the water.
+the fish is an animal and the boat is a vehicle.
+
+bob has a car.
+the car is green.
+the car moves on the road.
+the dog lives in the house but the car is on the road.
+the horse of tom eats grass.
+
+tom walks with the horse in the river.
+the horse sees a chair.
+the horse plays with the chair.
+this is a rabbit.
+this is alice.
+anna gives meat to the dog because the dog likes meat.
+a ball is in the river.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+the box is on the bed.
+the rabbit finds carrot.
+the horse likes grass because grass is food.
+the bus is yellow.
+alice goes on the bus.
+bob is at the city.
+the dog sees the bed.
+the book is on the box.
+anna likes her bike.
+the car is white.
+the dog sleeps in the park.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the road.
+the car moves on the road and the car is white.
+alice likes her bird.
+the dog lives in the house but the train is on the railway.
+seeds is food for the duck.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+
+anna has a bike.
+the bike is yellow.
+the bike moves on the road.
+a box is in the house.
+the window is in the farm.
+the dog is an animal.
+a truck is a vehicle.
+
+john walks with the cat in the river.
+the cat sees a chair.
+the cat plays with the chair.
+the window is under the bed.
+the cow eats grass.
+the rabbit sits in the garden.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+mary sees the cat near the car.
+the horse plays with a book.
+tom goes to the kitchen with his horse.
+the fish sees the bag and the fish plays with the bag.
+
+tom has a horse.
+the horse likes grass.
+
+tom has a horse.
+the horse likes grass.
+john drives the bus.
+bob drives the bus.
+the cat comes from the house and goes to the room.
+
+alice has a bird.
+the bird likes seeds.
+this is anna.
+the cow sees the table and the cow plays with the table.
+this bus is green.
+the mouse sees the bag.
+
+the door is in the city.
+bob finds the door.
+bob takes the door.
+the blue truck is at the room.
+tom has a horse.
+tom sits on the chair in the village.
+
+john is in the kitchen.
+john sees the window.
+the window is yellow.
+
+tom is in the village.
+tom sees the window.
+the window is brown.
+the duck lives in the lake.
+john finds fish and the cat eats the fish.
+
+tom has a horse.
+the horse likes grass.
+the car of bob is green.
+mary goes to the village with her dog.
+the chair is in the village.
+the horse sees the window and the horse plays with the window.
+
+tom has a horse.
+the horse likes grass.
+
+bob has a car.
+the car is red.
+the car moves on the road.
+this is bob.
+this truck is yellow.
+mary gives meat to her dog.
+bob sits on the table in the kitchen.
+tom likes his horse.
+the bike comes from the river.
+the bird of alice eats seeds.
+the cat runs in the kitchen.
+the bird likes seeds because seeds is food.
+the fish is an animal but the train is a vehicle.
+alice gives seeds to her bird.
+mary goes to the lake with her dog.
+bob is at the farm.
+the dog belongs to mary.
+the dog belongs to mary.
+this car is yellow.
+the duck eats seeds.
+anna finds the window in the road.
+
+anna is in the farm.
+anna sees the door.
+the door is white.
+the bird runs in the school.
+
+anna has a bike.
+the bike is black.
+the bike moves on the road.
+a car moves on the road.
+seeds is food for the fish.
+the duck finds seeds.
+the dog of mary eats meat.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+a ball is in the kitchen.
+the cat is an animal.
+the farm has a brown door.
+mary sees her dog.
+the rabbit eats carrot.
+a fish likes seeds.
+
+john walks with the cat in the garden.
+the cat sees a door.
+the cat plays with the door.
+
+the book is in the lake.
+alice finds the book.
+alice takes the book.
+the rabbit finds carrot.
+john sees his cat.
+a dog is an animal.
+
+alice is in the road.
+alice sees the book.
+the book is white.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the dog of mary eats meat.
+this boat is yellow.
+the book is green.
+the book is on the table and the ball is under the table.
+the duck finds seeds.
+tom likes his horse.
+the car moves on the road and the car is brown.
+the chair is near the bed.
+
+john walks with the cat in the city.
+the cat sees a bed.
+the cat plays with the bed.
+the car of bob is brown.
+the black car is near the river and the cat is in the river.
+the chair is on the box.
+mary is at the room.
+a horse is an animal.
+the dog comes from the house and goes to the farm.
+anna takes the bike to the kitchen.
+the blue chair is in the room.
+this is a bird.
+the bike is red.
+the dog comes from the house and goes to the road.
+a table is in the house.
+the mouse finds bread.
+alice sees the bird near the truck.
+the cow finds grass.
+the horse walks in the school.
+a fish lives in the water.
+the red boat is at the house.
+the brown bus is at the kitchen.
+
+alice has a bird.
+the bird likes seeds.
+alice gives seeds to the bird.
+the kitchen has a blue bag.
+
+anna has a bike.
+the bike is black.
+the bike moves on the road.
+john sees his cat in the house.
+the horse drinks water.
+alice finds the bed in the room.
+this is the village.
+the yellow truck is at the school.
+
+bob has a car.
+the car is red.
+the car moves on the road.
+
+anna has a bike.
+the bike is green.
+the bike moves on the road.
+mary is at the village.
+john finds fish and the cat eats the fish.
+mary gives grass to the cow because the cow likes grass.
+john takes the box.
+
+the door is in the park.
+alice finds the door.
+alice takes the door.
+the white train is near the farm and the cow is in the farm.
+tom takes the horse to the garden.
+a cat lives in the house.
+the cat is black.
+the bird sleeps in the school.
+john gives bread to the mouse because the mouse likes bread.
+the dog eats meat in the house.
+the horse is an animal but the train is a vehicle.
+the duck sits in the lake.
+john gives seeds to the fish because the fish likes seeds.
+
+the car is at the lake.
+bob goes on the car.
+the car moves on the road.
+alice gives the ball to bob.
+the bird of alice eats seeds.
+a duck is an animal.
+
+the chair is in the park.
+tom finds the chair.
+tom takes the chair.
+a cow lives on the farm.
+john sees his cat in the house.
+the fish lives in the water but the bike is on the road.
+this is the river.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the road.
+alice likes her bird.
+john gives bread to the mouse because the mouse likes bread.
+a rabbit is an animal.
+
+the chair is in the garden.
+bob finds the chair.
+bob takes the chair.
+the bird of alice eats seeds.
+the dog drinks water.
+the fish runs in the farm.
+the fish is white.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+the duck likes seeds because seeds is food.
+anna sees the duck near the boat.
+anna and the bike walk in the city.
+the box is near the bed.
+the dog comes from the house.
+the bird drinks water.
+mary rides the red boat.
+anna goes to the house with her bike.
+
+the car is red.
+bob drives the red car.
+the mouse sleeps in the lake.
+the white boat is near the village and the fish is in the village.
+a cow likes grass.
+the bike moves on the road and the bike is yellow.
+
+the bike is blue.
+anna rides the blue bike.
+bob gives the table to alice.
+mary gives meat to the dog.
+the red bike is near the garden and the dog is in the garden.
+the dog is an animal and the car is a vehicle.
+the dog eats meat and the boat moves on the water.
+the horse of tom eats grass.
+the car moves on the road and the car is blue.
+this is the room.
+the ball is brown.
+a bird lives in the tree.
+the bike is green.
+this is the city.
+the dog eats meat in the house.
+the boat is blue.
+the house is in the city.
+a car moves on the road.
+
+the bike is green.
+anna rides the green bike.
+the green book is in the house.
+john goes to the garden with his cat.
+the bird is an animal but the boat is a vehicle.
+the garden has a blue bed.
+alice goes to the school with her bird.
+the fish plays with a chair.
+the cow runs in the city.
+
+alice has a bird.
+the bird likes seeds.
+alice goes to the village with her bird.
+
+tom is in the city.
+tom sees the table.
+the table is yellow.
+the fish finds seeds.
+alice gives the box to bob.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+the bird is an animal.
+the cat is an animal but the boat is a vehicle.
+the horse drinks water.
+the book is on the table and the ball is under the table.
+the horse belongs to tom.
+the duck sees the book and the duck plays with the book.
+the duck lives in the lake but the bus is on the road.
+
+the ball is in the road.
+anna finds the ball.
+anna takes the ball.
+the bus moves on the road.
+this is anna.
+the book is on the table and the ball is under the table.
+the rabbit lives in the garden.
+a car is a vehicle.
+this is the village.
+the dog lives in the house but the bike is on the road.
+a bike moves on the road.
+the horse sees the bed.
+the fish comes from the water.
+this is the farm.
+the bird lives in the tree.
+mary drives the black truck.
+the bus is white.
+the garden has a window.
+tom has a horse.
+the box is in the village.
+the rabbit runs in the road.
+the bird belongs to alice.
+the train moves on the railway.
+the horse eats grass.
+mary sees her dog.
+the book is on the table and the ball is under the table.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+anna is at the house.
+the train is brown.
+the green bus is near the village and the bird is in the village.
+the dog likes meat because meat is food.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+bob finds the bed in the farm.
+the room is in the village.
+bob sees his car.
+the chair is on the table.
+alice likes her bird.
+mary gives meat to the dog.
+
+mary has a dog.
+the dog likes meat.
+a door is in the room.
+the bag is black.
+tom is at the lake.
+bob finds the bed in the city.
+john goes to the road with his cat.
+mary and the dog walk in the city.
+this is a fish.
+
+john has a cat.
+the cat sees a fish.
+the cat eats the fish.
+
+the box is in the school.
+anna finds the box.
+anna takes the box.
+the bed is under the chair.
+
+alice walks with the bird in the village.
+the bird sees a book.
+the bird plays with the book.
+this is alice.
+the bed is under the chair.
+the park has a door.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the room.
+anna goes on the truck.
+this is bob.
+the green boat moves on the water.
+the duck finds seeds.
+the fish runs in the house.
+
+mary has a dog.
+the dog likes meat.
+the bird comes from the tree and goes to the river.
+the rabbit likes carrot because carrot is food.
+a horse likes grass.
+the horse of tom eats grass.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the kitchen.
+the car moves on the road.
+tom drives the white bus.
+tom gives the ball to mary.
+this is a bird.
+the duck comes from the lake and goes to the river.
+a duck lives in the lake.
+the car moves on the road.
+the duck is an animal but the boat is a vehicle.
+the black chair is in the garden.
+the bird sleeps in the city.
+the dog likes meat because meat is food.
+the cow eats grass in the farm.
+the cat likes fish because fish is food.
+the fish eats seeds in the water.
+the fish eats seeds and the car moves on the road.
+the horse comes from the farm and goes to the river.
+the rabbit is red.
+the cat walks in the garden.
+john likes the cow and the train.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+the bed is on the bed.
+bob drives the car on the road.
+
+the door is in the garden.
+bob finds the door.
+bob takes the door.
+this is the road.
+the bus moves on the road and the bus is red.
+the cat drinks water.
+the mouse sees the bag and the mouse plays with the bag.
+a cat is an animal.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the cow likes grass because grass is food.
+john and the cat walk in the farm.
+the book is on the table and the ball is under the table.
+john rides the bike.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+the bus is a vehicle.
+the rabbit plays with a chair.
+the cat runs in the road.
+the bike comes from the road.
+the black chair is in the garden.
+alice likes the horse and the car.
+bob goes on the car.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the village.
+the rabbit eats carrot in the garden.
+
+tom walks with the horse in the school.
+the horse sees a ball.
+the horse plays with the ball.
+the table is near the table.
+the bird is white.
+john sees his cat.
+john sees his cat.
+
+the car is blue.
+bob drives the blue car.
+anna sits on the bed in the lake.
+
+anna has a bike.
+the bike is black.
+the bike moves on the road.
+
+tom walks with the horse in the park.
+the horse sees a bag.
+the horse plays with the bag.
+the bus is black.
+
+the box is in the room.
+mary finds the box.
+mary takes the box.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+bob takes the car to the park.
+tom sees the rabbit near the truck.
+the chair is in the road.
+tom is at the farm.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+the cat of john eats fish.
+mary likes the rabbit and the bus.
+tom sits on the bed in the room.
+this is alice.
+john finds fish and the cat eats the fish.
+the mouse lives in the kitchen but the bike is on the road.
+the rabbit sleeps in the road.
+the brown bike is near the road and the mouse is in the road.
+this car is green.
+the horse drinks water.
+the rabbit comes from the garden.
+
+alice walks with the bird in the village.
+the bird sees a box.
+the bird plays with the box.
+the book is near the box.
+the mouse eats bread and the truck moves on the road.
+tom takes the horse to the garden.
+the dog belongs to mary.
+the truck moves on the road.
+this is the city.
+the fish is an animal but the car is a vehicle.
+the bike of anna is red.
+bob drives the car on the road.
+the cow sits on the farm.
+the white truck is at the school.
+
+alice has a bird.
+the bird likes seeds.
+the car is a vehicle.
+the duck is an animal but the truck is a vehicle.
+tom sits on the table in the river.
+a boat is a vehicle.
+the door is near the chair.
+
+the window is in the city.
+anna finds the window.
+anna takes the window.
+the dog belongs to mary.
+the bird eats seeds and the bus moves on the road.
+the mouse is an animal.
+
+john has a cat.
+the cat likes fish.
+bob drives the car on the road.
+bob takes the chair.
+tom and the horse walk in the house.
+the cow is an animal.
+tom rides the black boat.
+the bus is a vehicle.
+john goes to the farm with his cat.
+john takes the chair.
+alice goes on the truck.
+this is the garden.
+alice gives seeds to her bird.
+this is a bird.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the garden.
+the cow likes grass because grass is food.
+
+the bed is in the park.
+tom finds the bed.
+tom takes the bed.
+the dog belongs to mary.
+seeds is food for the bird.
+the bike is near the city.
+the fish sees the chair and the fish plays with the chair.
+the bus comes from the farm.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+anna goes to the river with her bike.
+the train is yellow.
+
+the bed is in the road.
+bob finds the bed.
+bob takes the bed.
+mary gives bread to the mouse because the mouse likes bread.
+the car comes from the house.
+this is anna.
+
+the ball is in the school.
+anna finds the ball.
+anna takes the ball.
+the cow runs in the kitchen.
+the bird is an animal.
+mary finds meat and the dog eats the meat.
+a train is a vehicle.
+the dog likes meat because meat is food.
+the mouse is an animal.
+the fish drinks water.
+this is anna.
+the duck is black.
+bob takes the car to the school.
+a duck is an animal.
+alice finds seeds and the bird eats the seeds.
+the bird eats seeds in the tree.
+alice sees her bird in the tree.
+the horse belongs to tom.
+the lake has a bed.
+the car belongs to bob.
+the boat is near the school.
+mary goes to the road with her dog.
+john finds the ball in the village.
+anna goes to the farm with her bike.
+john likes his cat.
+john gives fish to his cat.
+anna goes to the house with her bike.
+
+tom has a horse.
+the horse likes grass.
+the duck lives in the lake.
+anna rides the bike on the road.
+
+the car is brown.
+bob drives the brown car.
+the kitchen has a chair.
+the box is near the box.
+
+alice is in the house.
+alice sees the bed.
+the bed is black.
+
+alice has a bird.
+the bird likes seeds.
+the door is in the park.
+the cow is red.
+the fish sleeps in the garden.
+
+bob has a car.
+the car is green.
+the car moves on the road.
+the dog eats meat and the truck moves on the road.
+the cat drinks water.
+the dog plays with a box.
+the yellow bus is near the road and the cat is in the road.
+a bus moves on the road.
+the fish sits in the water.
+a cow likes grass.
+bob gives seeds to the duck because the duck likes seeds.
+the door is under the table.
+the bird runs in the school.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the dog is an animal but the bike is a vehicle.
+john sees his cat.
+mary goes to the river with her dog.
+tom finds the box in the lake.
+bob and the car walk in the farm.
+the fish plays with a window.
+the duck lives in the lake but the bus is on the road.
+anna has a bike.
+
+the bike is black.
+anna rides the black bike.
+john takes the book.
+the bike is near the house.
+the horse sees the window and the horse plays with the window.
+mary gives fish to the cat because the cat likes fish.
+the truck is white.
+a dog is an animal.
+a fish lives in the water.
+the window is in the farm.
+the horse drinks water.
+bob is at the lake.
+
+mary has a dog.
+the dog likes meat.
+the white truck moves on the road.
+
+john has a cat.
+the cat likes fish.
+the rabbit sleeps in the school.
+a train is a vehicle.
+the horse comes from the farm and goes to the farm.
+meat is food for the dog.
+the bird drinks water.
+the train is blue.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+the bus moves on the road and the bus is red.
+the cow runs in the park.
+a rabbit likes carrot.
+this is bob.
+alice goes to the river with her bird.
+a bird is an animal.
+the book is on the table and the ball is under the table.
+seeds is food for the bird.
+the white bus is at the city.
+anna sees the horse near the bike.
+the dog lives in the house but the train is on the railway.
+the fish sits in the water.
+mary goes to the lake with her dog.
+
+the chair is in the city.
+bob finds the chair.
+bob takes the chair.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+
+the door is in the room.
+mary finds the door.
+mary takes the door.
+the bird plays with a chair.
+the dog walks in the room.
+alice goes to the room with her bird.
+a train moves on the railway.
+the cow finds grass.
+a cat is an animal.
+the boat comes from the river.
+the train is brown.
+alice is at the river.
+
+the door is in the road.
+john finds the door.
+john takes the door.
+this bike is white.
+mary goes on the truck.
+
+the bike is blue.
+anna rides the blue bike.
+
+bob is in the park.
+bob sees the door.
+the door is red.
+the book is on the table and the ball is under the table.
+tom finds the door in the farm.
+this is tom.
+the duck eats seeds in the lake.
+tom and the horse walk in the lake.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+the dog drinks water.
+anna likes her bike.
+the window is in the city.
+the dog belongs to mary.
+the cat plays with a chair.
+anna rides the blue boat.
+the yellow table is in the river.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+bob takes the car to the city.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+this boat is brown.
+alice gives seeds to the bird.
+the bus is blue.
+alice takes the bird to the room.
+the bird belongs to alice.
+anna sees her bike.
+bob takes the car to the garden.
+the window is in the city.
+
+the car is brown.
+bob drives the brown car.
+a ball is in the garden.
+the bus moves on the road and the bus is yellow.
+the cat comes from the house.
+the cat plays with a box.
+the car is red.
+bob likes the bird and the car.
+the white train is at the river.
+the fish lives in the water.
+the garden has a red door.
+
+tom walks with the horse in the road.
+the horse sees a chair.
+the horse plays with the chair.
+the car comes from the kitchen.
+the boat moves on the water and the boat is brown.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+fish is food for the cat.
+the bike belongs to anna.
+a dog is an animal.
+the river is in the village.
+
+tom is in the city.
+tom sees the book.
+the book is yellow.
+
+alice walks with the bird in the river.
+the bird sees a ball.
+the bird plays with the ball.
+the mouse plays with a window.
+the car of bob is brown.
+alice gives seeds to her bird.
+mary finds the table in the school.
+this is the room.
+mary finds meat and the dog eats the meat.
+the window is in the road.
+the bird comes from the tree and goes to the village.
+the bike is a vehicle.
+
+the car is green.
+bob drives the green car.
+this is a dog.
+bob likes his car.
+alice takes the chair.
+the car moves on the road.
+a rabbit lives in the garden.
+the cow runs in the village.
+alice gives grass to the cow because the cow likes grass.
+a bed is in the farm.
+the table is in the road.
+the horse drinks water.
+mary takes the dog to the room.
+mary finds the door in the room.
+
+alice walks with the bird in the park.
+the bird sees a bed.
+the bird plays with the bed.
+this car is blue.
+tom goes on the boat.
+the bird is an animal but the truck is a vehicle.
+the door is in the river.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the school.
+
+the window is in the garden.
+alice finds the window.
+alice takes the window.
+the book is in the river.
+the white train is near the river and the cow is in the river.
+anna sits on the chair in the river.
+the duck sees the chair.
+the ball is under the table.
+alice gives seeds to her bird.
+a duck is an animal.
+tom rides the train.
+john sees his cat.
+the horse belongs to tom.
+anna takes the bike to the river.
+a bird is an animal.
+the horse of tom eats grass.
+the black car moves on the road.
+john sits on the box in the garden.
+john finds fish and the cat eats the fish.
+the duck eats seeds in the lake.
+the truck moves on the road.
+this car is green.
+this is tom.
+a horse is an animal.
+the duck is an animal and the boat is a vehicle.
+the dog is green.
+tom sees his horse in the farm.
+john goes to the school with his cat.
+this is a cat.
+the dog finds meat.
+the horse eats grass and the train moves on the railway.
+the cow plays with a box.
+the book is green.
+
+the bed is in the kitchen.
+tom finds the bed.
+tom takes the bed.
+alice finds seeds and the bird eats the seeds.
+the rabbit comes from the garden.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+the duck runs in the river.
+tom takes the horse to the road.
+the book is on the table and the ball is under the table.
+a dog is an animal.
+the cow is an animal but the train is a vehicle.
+the duck eats seeds.
+the train is red.
+mary sees her dog.
+the dog of mary eats meat.
+the dog of mary eats meat.
+mary sees the horse near the car.
+bob drives the car on the road.
+the brown ball is in the room.
+the bike belongs to anna.
+the rabbit runs in the kitchen.
+the duck likes seeds because seeds is food.
+the green car is at the room.
+the truck comes from the park.
+tom takes the horse to the city.
+the truck comes from the house.
+tom sits on the chair in the house.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the river.
+the dog sits in the house.
+a bag is in the farm.
+
+the ball is in the room.
+mary finds the ball.
+mary takes the ball.
+the duck is an animal but the bike is a vehicle.
+the bike belongs to anna.
+the cow eats grass and the train moves on the railway.
+the cat drinks water.
+the fish plays with a window.
+the fish sees the ball and the fish plays with the ball.
+alice gives the window to bob.
+the bird is an animal but the bus is a vehicle.
+
+tom is in the village.
+tom sees the book.
+the book is white.
+
+tom has a horse.
+the horse likes grass.
+a train is a vehicle.
+mary likes the duck and the train.
+
+mary walks with the dog in the park.
+the dog sees a bed.
+the dog plays with the bed.
+
+tom is in the river.
+tom sees the window.
+the window is red.
+the mouse is white.
+the bike moves on the road and the bike is yellow.
+the dog belongs to mary.
+the car is a vehicle.
+the white train moves on the railway.
+this bike is red.
+the lake has a door.
+mary and the dog walk in the village.
+this is john.
+bob drives the car on the road.
+anna finds the book in the road.
+john and the cat walk in the school.
+tom finds the bed in the park.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+the cow comes from the farm.
+
+tom is in the road.
+tom sees the bed.
+the bed is blue.
+mary rides the train.
+the book is under the box.
+the horse eats grass in the farm.
+the fish comes from the water and goes to the house.
+tom takes the horse to the lake.
+the rabbit is an animal.
+the bike is near the house.
+this is the farm.
+alice sees her bird in the tree.
+the yellow book is in the kitchen.
+the dog eats meat and the bike moves on the road.
+the rabbit plays with a book.
+the cat is an animal.
+this is the village.
+the bird finds seeds.
+the dog comes from the house and goes to the farm.
+the mouse comes from the kitchen and goes to the room.
+the bike comes from the river.
+tom gives grass to his horse.
+alice sees the rabbit near the bike.
+mary has a dog.
+john sees the rabbit near the train.
+a chair is in the city.
+a table is in the garden.
+the bike of anna is red.
+the mouse plays with a door.
+fish is food for the cat.
+
+mary has a dog.
+the dog likes meat.
+the dog sleeps in the garden.
+the cat sleeps in the house.
+the truck moves on the road and the truck is green.
+the garden has a yellow book.
+the rabbit drinks water.
+alice gives the bag to mary.
+tom is at the lake.
+the horse is an animal.
+the fish comes from the water.
+mary rides the bike.
+alice finds the window in the park.
+mary likes her dog.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the house.
+the ball is near the chair.
+the cow runs in the park.
+a cat lives in the house.
+the rabbit drinks water.
+tom gives grass to his horse.
+the chair is under the bed.
+the kitchen has a chair.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+the cat of john eats fish.
+the boat moves on the water.
+the bird sits in the tree.
+the ball is near the box.
+tom sees his horse in the farm.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+alice is at the room.
+bob goes to the garden with his car.
+the mouse plays with a book.
+mary sees the rabbit near the bike.
+the ball is on the table.
+this is the city.
+bob and the car walk in the kitchen.
+the cat plays with a door.
+anna is at the kitchen.
+the white bus is at the school.
+the brown boat is near the school and the cat is in the school.
+the mouse drinks water.
+the cow eats grass.
+the horse eats grass.
+the cow is an animal and the bus is a vehicle.
+
+anna is in the farm.
+anna sees the ball.
+the ball is yellow.
+tom gives the bag to mary.
+
+the box is in the road.
+anna finds the box.
+anna takes the box.
+the bike is near the river.
+mary sees her dog.
+mary takes the dog to the village.
+a train is a vehicle.
+a cat likes fish.
+the window is in the farm.
+the bag is near the chair.
+the cat sees the book.
+the yellow car is at the kitchen.
+a boat is a vehicle.
+anna finds the ball in the school.
+mary drives the car.
+the truck is near the city.
+this is anna.
+
+the bike is at the village.
+anna goes on the bike.
+the bike moves on the road.
+anna sees her bike.
+a train is a vehicle.
+a duck is an animal.
+the fish sees the book.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the horse comes from the farm.
+this is a cat.
+tom rides the green boat.
+the yellow bike moves on the road.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the fish eats seeds.
+a bike is a vehicle.
+the rabbit eats carrot in the garden.
+
+mary has a dog.
+the dog likes meat.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the village.
+john likes the dog and the car.
+this is anna.
+mary rides the train.
+
+the door is in the school.
+bob finds the door.
+bob takes the door.
+the fish is green.
+the cow finds grass.
+the horse drinks water.
+bob takes the book.
+the horse is an animal but the bus is a vehicle.
+the chair is white.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+
+the bag is in the park.
+anna finds the bag.
+anna takes the bag.
+anna goes to the school with her bike.
+the dog finds meat.
+this boat is black.
+the bird of alice eats seeds.
+the train is a vehicle.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the farm.
+the bus is black.
+tom takes the bed.
+alice gives seeds to the bird.
+bob is at the school.
+the brown bike moves on the road.
+the bed is in the village.
+the book is on the table and the ball is under the table.
+the mouse sees the bed.
+the train moves on the railway.
+the fish is red.
+the bag is red.
+
+mary has a dog.
+the dog likes meat.
+the cat eats fish.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the kitchen.
+alice gives the door to anna.
+alice has a bird.
+a train moves on the railway.
+this is anna.
+the mouse walks in the farm.
+this is alice.
+the cat is an animal.
+the bike is green.
+the cat runs in the river.
+alice gives seeds to her bird.
+bob has a car.
+the duck lives in the lake but the car is on the road.
+bob gives the door to alice.
+the horse sees the table and the horse plays with the table.
+the farm has a white bag.
+the horse lives on the farm.
+the school has a window.
+the boat moves on the water.
+the window is in the farm.
+alice is at the river.
+tom gives the chair to bob.
+the fish comes from the water.
+anna likes her bike.
+alice has a bird.
+alice and the bird walk in the house.
+anna goes to the lake with her bike.
+the truck is near the garden.
+the bike is near the river.
+the fish comes from the water.
+a dog likes meat.
+the blue bike moves on the road.
+john goes to the school with his cat.
+john goes to the house with his cat.
+the bike moves on the road.
+the car is near the garden.
+the bike is near the farm.
+the horse is an animal but the car is a vehicle.
+the truck comes from the village.
+the rabbit lives in the garden.
+
+anna has a bike.
+the bike is red.
+the bike moves on the road.
+a train moves on the railway.
+alice goes to the lake with her bird.
+tom rides the yellow bike.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+anna gives the window to mary.
+the mouse sits in the kitchen.
+alice sees the dog near the bike.
+
+the ball is in the garden.
+bob finds the ball.
+bob takes the ball.
+alice goes on the truck.
+a cat likes fish.
+the bird is an animal and the car is a vehicle.
+
+tom is in the house.
+tom sees the chair.
+the chair is blue.
+the horse eats grass and the bus moves on the road.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+
+alice walks with the bird in the park.
+the bird sees a bag.
+the bird plays with the bag.
+a duck likes seeds.
+
+john is in the road.
+john sees the bag.
+the bag is red.
+the rabbit is green.
+the farm has a blue box.
+the dog plays with a bed.
+mary is at the house.
+the yellow truck moves on the road.
+the cat is red.
+the window is in the farm.
+the duck runs in the farm.
+mary takes the bed.
+the bird sits in the tree.
+the green door is in the kitchen.
+the cat is an animal.
+a duck likes seeds.
+bob drives the brown bus.
+the dog lives in the house but the car is on the road.
+the cow eats grass in the farm.
+
+bob has a car.
+the car is black.
+the car moves on the road.
+tom has a horse.
+the duck eats seeds and the car moves on the road.
+the lake has a blue box.
+the school has a door.
+tom has a horse.
+the bird likes seeds because seeds is food.
+the book is on the table and the ball is under the table.
+the fish finds seeds.
+the mouse runs in the road.
+the rabbit is an animal and the boat is a vehicle.
+the rabbit sits in the garden.
+the cat plays with a door.
+mary takes the dog to the kitchen.
+the rabbit is an animal.
+the bird lives in the tree.
+the rabbit is an animal and the car is a vehicle.
+the car of bob is white.
+
+anna is in the farm.
+anna sees the chair.
+the chair is black.
+grass is food for the cow.
+the horse eats grass in the farm.
+the rabbit comes from the garden and goes to the room.
+the bus is black.
+
+tom walks with the horse in the village.
+the horse sees a book.
+the horse plays with the book.
+
+john is in the kitchen.
+john sees the window.
+the window is blue.
+the green bike moves on the road.
+the car is red.
+the cow eats grass in the farm.
+the green door is in the house.
+a boat is a vehicle.
+the fish is black.
+the yellow book is in the farm.
+the bed is red.
+tom likes his horse.
+the door is on the chair.
+the horse is an animal and the boat is a vehicle.
+a train moves on the railway.
+the rabbit lives in the garden but the bus is on the road.
+the cow likes grass because grass is food.
+the duck sees the chair.
+bob takes the car to the park.
+the blue book is in the park.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+anna sees the dog near the car.
+the bike is a vehicle.
+this is a fish.
+
+the box is in the park.
+tom finds the box.
+tom takes the box.
+mary sees her dog in the house.
+john sees his cat.
+anna has a bike.
+tom goes to the lake with his horse.
+the dog of mary eats meat.
+mary sees her dog.
+anna and the bike walk in the kitchen.
+a car is a vehicle.
+the bus is a vehicle.
+the dog walks in the city.
+alice gives seeds to the bird.
+the yellow train is near the river and the mouse is in the river.
+alice and the bird walk in the room.
+the table is near the bed.
+bob has a car.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+anna likes her bike.
+a horse is an animal.
+the dog sees the door and the dog plays with the door.
+the cow comes from the farm and goes to the river.
+the rabbit lives in the garden but the bus is on the road.
+this bike is white.
+the bus moves on the road and the bus is yellow.
+tom goes to the lake with his horse.
+this is a cat.
+the window is yellow.
+the park has a table.
+
+anna is in the river.
+anna sees the ball.
+the ball is brown.
+the fish is yellow.
+this is a mouse.
+mary goes to the kitchen with her dog.
+the blue bus is near the kitchen and the rabbit is in the kitchen.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+the garden has a white book.
+mary gives meat to her dog.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+the duck eats seeds.
+the door is in the room.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the house.
+mary finds meat and the dog eats the meat.
+the green bike moves on the road.
+the bag is in the garden.
+the dog belongs to mary.
+the duck plays with a bed.
+the river has a door.
+the dog belongs to mary.
+the fish is green.
+the fish lives in the water.
+bob sits on the bed in the farm.
+the dog drinks water.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+anna likes the fish and the truck.
+this is the house.
+the book is in the village.
+anna rides the bike on the road.
+
+anna has a bike.
+the bike is white.
+the bike moves on the road.
+fish is food for the cat.
+the book is on the bed.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+anna likes her bike.
+the blue car moves on the road.
+the cat sits in the house.
+the window is in the school.
+
+anna is in the room.
+anna sees the door.
+the door is red.
+a door is in the village.
+the bike of anna is red.
+this bike is blue.
+the cat comes from the house and goes to the kitchen.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+this car is red.
+the cow comes from the farm and goes to the garden.
+the duck is yellow.
+the mouse comes from the kitchen and goes to the village.
+the duck lives in the lake but the bike is on the road.
+the bed is on the bed.
+the door is in the road.
+the truck is a vehicle.
+mary takes the dog to the village.
+the door is in the village.
+the rabbit comes from the garden and goes to the room.
+tom sees his horse.
+tom sees the horse near the truck.
+the table is green.
+
+the bike is at the room.
+anna goes on the bike.
+the bike moves on the road.
+the bike comes from the village.
+
+anna is in the garden.
+anna sees the window.
+the window is yellow.
+mary and the dog walk in the school.
+anna takes the bike to the farm.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the lake.
+the horse sees the door and the horse plays with the door.
+the white bag is in the road.
+
+the table is in the school.
+bob finds the table.
+bob takes the table.
+alice has a bird.
+
+the book is in the city.
+mary finds the book.
+mary takes the book.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the river.
+john gives the chair to mary.
+
+anna is in the river.
+anna sees the window.
+the window is green.
+the cow likes grass because grass is food.
+
+anna is in the kitchen.
+anna sees the chair.
+the chair is black.
+the rabbit sits in the garden.
+the dog drinks water.
+
+the car is at the lake.
+bob goes on the car.
+the car moves on the road.
+tom is at the lake.
+the door is on the chair.
+carrot is food for the rabbit.
+tom sees his horse in the farm.
+
+alice walks with the bird in the farm.
+the bird sees a chair.
+the bird plays with the chair.
+the green bus is near the farm and the horse is in the farm.
+the cat sits in the house.
+the red car is at the garden.
+anna has a bike.
+this is anna.
+the horse likes grass because grass is food.
+
+tom walks with the horse in the city.
+the horse sees a bag.
+the horse plays with the bag.
+anna goes on the car.
+the blue ball is in the road.
+the cow comes from the farm.
+the boat comes from the lake.
+a horse is an animal.
+the train moves on the railway and the train is brown.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+tom goes to the room with his horse.
+the bird lives in the tree but the train is on the railway.
+mary gives meat to her dog.
+the box is blue.
+a fish likes seeds.
+the car of bob is yellow.
+
+tom has a horse.
+the horse likes grass.
+the book is on the table and the ball is under the table.
+john sees his cat.
+
+anna is in the house.
+anna sees the bed.
+the bed is green.
+mary and the dog walk in the village.
+the dog of mary eats meat.
+the boat moves on the water and the boat is white.
+mary rides the bike.
+mary likes her dog.
+a bag is in the farm.
+the door is in the farm.
+the boat moves on the water.
+john sees his cat.
+the cow walks in the road.
+the bike of anna is red.
+alice gives the book to john.
+mary gives carrot to the rabbit because the rabbit likes carrot.
+the book is on the table and the ball is under the table.
+john likes his cat.
+anna takes the bike to the room.
+tom gives the chair to john.
+the mouse eats bread and the bus moves on the road.
+mary is at the kitchen.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+
+the ball is in the kitchen.
+mary finds the ball.
+mary takes the ball.
+a cat likes fish.
+the fish eats seeds and the truck moves on the road.
+the cat of john eats fish.
+the cat drinks water.
+mary has a dog.
+the window is in the road.
+a fish is an animal.
+the box is in the kitchen.
+
+bob has a car.
+the car is brown.
+the car moves on the road.
+the rabbit runs in the road.
+
+the window is in the road.
+john finds the window.
+john takes the window.
+
+tom is in the school.
+tom sees the window.
+the window is red.
+the fish sits in the water.
+the horse is an animal but the boat is a vehicle.
+anna rides the bike on the road.
+mary and the dog walk in the school.
+the bike is green.
+
+the window is in the road.
+bob finds the window.
+bob takes the window.
+the book is near the chair.
+a bird is an animal.
+the yellow train is at the river.
+this is the lake.
+bob takes the car to the river.
+a window is in the farm.
+anna gives the chair to alice.
+the cow runs in the park.
+the duck eats seeds in the lake.
+mary sees the bird near the bus.
+bob is at the school.
+tom is at the park.
+the mouse lives in the kitchen.
+john likes his cat.
+the book is on the table and the ball is under the table.
+the ball is on the box.
+tom sees his horse.
+alice gives fish to the cat because the cat likes fish.
+john gives fish to his cat.
+the cat is an animal but the bike is a vehicle.
+the cat runs in the river.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the house.
+the horse sits on the farm.
+tom gives grass to his horse.
+the duck plays with a ball.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+the bike moves on the road and the bike is red.
+the horse sees the table and the horse plays with the table.
+
+the window is in the river.
+john finds the window.
+john takes the window.
+bob drives the car on the road.
+anna finds the table in the road.
+the book is on the table and the ball is under the table.
+the car is near the house.
+a horse lives on the farm.
+
+the car is at the city.
+bob goes on the car.
+the car moves on the road.
+the black boat is near the park and the mouse is in the park.
+the bike of anna is brown.
+the mouse eats bread and the train moves on the railway.
+the box is near the chair.
+the cat sleeps in the road.
+alice goes to the park with her bird.
+the truck is black.
+the horse sees the table.
+the dog is an animal and the boat is a vehicle.
+the horse walks in the road.
+the horse likes grass because grass is food.
+the school is in the village.
+the mouse plays with a box.
+the dog lives in the house.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+the horse sleeps in the school.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+the bird drinks water.
+the cat sees the box.
+the fish comes from the water and goes to the road.
+the bus comes from the city.
+
+john has a cat.
+the cat sees a fish.
+the cat eats the fish.
+mary finds the box in the river.
+the mouse walks in the house.
+bob goes to the river with his car.
+
+tom has a horse.
+the horse likes grass.
+
+anna has a bike.
+the bike is green.
+the bike moves on the road.
+the bag is on the table.
+
+alice has a bird.
+the bird likes seeds.
+
+bob has a car.
+the car is blue.
+the car moves on the road.
+
+the bike is at the park.
+anna goes on the bike.
+the bike moves on the road.
+the door is in the road.
+bob likes the cow and the bus.
+mary and the dog walk in the lake.
+john drives the red car.
+the rabbit is an animal and the boat is a vehicle.
+mary gives meat to the dog.
+the window is in the lake.
+the rabbit sees the bed and the rabbit plays with the bed.
+
+anna is in the road.
+anna sees the window.
+the window is white.
+the dog belongs to mary.
+the cat sleeps in the road.
+the cow is an animal.
+the horse likes grass because grass is food.
+the yellow bike is at the river.
+mary gives meat to the dog.
+
+mary has a dog.
+the dog likes meat.
+the dog sleeps in the lake.
+a duck lives in the lake.
+alice takes the bird to the room.
+the fish runs in the road.
+the train is brown.
+the mouse eats bread in the kitchen.
+the black train is at the school.
+the horse sleeps in the kitchen.
+anna goes to the road with her bike.
+the horse likes grass because grass is food.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+the bike is near the garden.
+the cow drinks water.
+the dog comes from the house.
+alice drives the truck.
+the horse plays with a bed.
+the car moves on the road.
+the cow likes grass because grass is food.
+a bike moves on the road.
+the bird comes from the tree.
+this is the road.
+the rabbit sees the book and the rabbit plays with the book.
+
+the table is in the city.
+tom finds the table.
+tom takes the table.
+john takes the cat to the lake.
+
+the car is green.
+bob drives the green car.
+anna finds the bed in the village.
+
+bob is in the room.
+bob sees the book.
+the book is white.
+tom gives grass to his horse.
+the duck comes from the lake and goes to the river.
+a door is in the kitchen.
+the duck lives in the lake.
+the boat moves on the water.
+the room has a bag.
+the brown bike is near the school and the cat is in the school.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+tom gives grass to the horse.
+the rabbit finds carrot.
+the yellow bike is at the park.
+
+anna is in the lake.
+anna sees the bag.
+the bag is yellow.
+the park has a yellow book.
+mary likes the fish and the boat.
+a bird lives in the tree.
+the door is in the garden.
+the cat finds fish.
+this is john.
+the car belongs to bob.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+the horse drinks water.
+the rabbit lives in the garden.
+this is a bird.
+alice is at the kitchen.
+alice sees her bird in the tree.
+alice is at the school.
+a boat moves on the water.
+the city has a green box.
+the horse runs in the road.
+the boat is white.
+the river is in the village.
+the cat lives in the house but the car is on the road.
+the dog eats meat and the bike moves on the road.
+the city is in the city.
+
+the car is brown.
+bob drives the brown car.
+mary gives meat to the dog.
+the red boat is near the house and the rabbit is in the house.
+this train is green.
+tom goes on the bike.
+mary sees the dog near the bus.
+alice is at the village.
+the cow is an animal but the boat is a vehicle.
+the cat lives in the house but the bus is on the road.
+the rabbit finds carrot.
+the boat comes from the garden.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+
+the car is at the garden.
+bob goes on the car.
+the car moves on the road.
+the dog sleeps in the city.
+the bird plays with a bed.
+
+john is in the city.
+john sees the box.
+the box is red.
+the train is near the garden.
+the dog lives in the house.
+
+the chair is in the room.
+john finds the chair.
+john takes the chair.
+the book is yellow.
+
+john has a cat.
+the cat sees a fish.
+the cat eats the fish.
+
+the car is blue.
+bob drives the blue car.
+mary sees her dog in the house.
+tom takes the horse to the park.
+john goes to the school with his cat.
+the duck drinks water.
+
+alice is in the farm.
+alice sees the book.
+the book is white.
+the horse sits on the farm.
+the chair is blue.
+the car is black.
+the cow sleeps in the house.
+the cow sits on the farm.
+seeds is food for the bird.
+
+the bike is black.
+anna rides the black bike.
+the cat is an animal and the train is a vehicle.
+the cat lives in the house.
+the rabbit likes carrot because carrot is food.
+this is alice.
+a rabbit likes carrot.
+tom drives the car.
+
+alice is in the city.
+alice sees the chair.
+the chair is black.
+the boat comes from the lake.
+
+anna is in the lake.
+anna sees the window.
+the window is green.
+a truck is a vehicle.
+alice sees the horse near the bike.
+the bird lives in the tree but the truck is on the road.
+the fish runs in the garden.
+john gives fish to the cat.
+this is the lake.
+the bike is a vehicle.
+the yellow bus is at the kitchen.
+the rabbit comes from the garden and goes to the river.
+the lake has a box.
+the train moves on the railway and the train is blue.
+the boat is white.
+
+bob has a car.
+the car is red.
+the car moves on the road.
+the dog belongs to mary.
+mary goes to the park with her dog.
+this is bob.
+the bike is a vehicle.
+the bird eats seeds in the tree.
+bob rides the boat.
+bob takes the car to the room.
+the door is in the kitchen.
+a bike moves on the road.
+a car is a vehicle.
+the black train is at the house.
+the duck comes from the lake and goes to the village.
+alice gives meat to the dog because the dog likes meat.
+anna rides the red boat.
+alice sees her bird.
+the car is blue.
+the horse eats grass in the farm.
+the bed is in the kitchen.
+the mouse sleeps in the garden.
+john gives fish to the cat.
+the mouse sees the table and the mouse plays with the table.
+mary takes the window.
+the bed is on the box.
+a bus moves on the road.
+the rabbit finds carrot.
+the dog plays with a ball.
+a car moves on the road.
+the dog lives in the house but the truck is on the road.
+tom sees the fish near the car.
+tom goes to the house with his horse.
+mary sees her dog.
+alice goes on the truck.
+the bike of anna is brown.
+a bus is a vehicle.
+a bird lives in the tree.
+this is the room.
+tom sees his horse.
+
+mary has a dog.
+the dog likes meat.
+john takes the cat to the house.
+
+the bike is at the road.
+anna goes on the bike.
+the bike moves on the road.
+the fish plays with a chair.
+alice gives seeds to the bird.
+the garden has a ball.
+john goes to the kitchen with his cat.
+
+bob is in the room.
+bob sees the door.
+the door is black.
+a train is a vehicle.
+anna sits on the bed in the kitchen.
+mary sees her dog.
+the horse finds grass.
+the duck sleeps in the garden.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+the cat likes fish because fish is food.
+a fish likes seeds.
+alice sees her bird in the tree.
+john rides the train.
+the window is in the school.
+the bed is on the table.
+the bus is near the park.
+grass is food for the horse.
+
+mary is in the house.
+mary sees the table.
+the table is blue.
+the book is near the chair.
+the horse eats grass in the farm.
+the chair is near the bed.
+bob sees his car.
+the door is under the chair.
+the bird sees the chair.
+
+tom has a horse.
+the horse likes grass.
+the truck is a vehicle.
+mary gives grass to the cow because the cow likes grass.
+bob drives the car on the road.
+the bus is a vehicle.
+the duck is an animal.
+mary finds the chair in the road.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the village.
+the table is in the farm.
+
+the bike is red.
+anna rides the red bike.
+tom likes his horse.
+mary and the dog walk in the road.
+the rabbit finds carrot.
+the horse is black.
+the horse belongs to tom.
+alice gives seeds to the bird.
+mary is at the park.
+the mouse lives in the kitchen.
+this train is yellow.
+the cat sleeps in the farm.
+the horse drinks water.
+bob goes to the room with his car.
+alice drives the yellow truck.
+the dog is an animal but the car is a vehicle.
+
+anna has a bike.
+the bike is red.
+the bike moves on the road.
+john sees his cat in the house.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the room.
+
+the car is yellow.
+bob drives the yellow car.
+this bike is black.
+the fish is brown.
+the bus moves on the road and the bus is yellow.
+the red boat is at the lake.
+the yellow boat is at the road.
+a car is a vehicle.
+mary sees her dog in the house.
+the box is red.
+the bird sits in the tree.
+the blue car moves on the road.
+bob takes the chair.
+
+john has a cat.
+the cat likes fish.
+john goes to the village with his cat.
+the rabbit walks in the farm.
+the dog finds meat.
+the yellow bike is at the lake.
+the bike of anna is black.
+john likes his cat.
+the river is in the village.
+anna rides the boat.
+
+the bike is green.
+anna rides the green bike.
+mary rides the boat.
+the box is under the chair.
+the mouse sleeps in the park.
+bob takes the car to the school.
+the duck eats seeds and the bike moves on the road.
+john takes the bed.
+
+anna has a bike.
+the bike is black.
+the bike moves on the road.
+anna takes the bike to the road.
+the cat eats fish and the bike moves on the road.
+
+the car is white.
+bob drives the white car.
+the cat lives in the house.
+alice rides the boat.
+mary likes the dog and the boat.
+
+tom is in the park.
+tom sees the window.
+the window is white.
+a truck is a vehicle.
+a train is a vehicle.
+the yellow ball is in the house.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+the river has a blue chair.
+the black car is at the farm.
+the box is under the box.
+
+mary is in the school.
+mary sees the ball.
+the ball is brown.
+tom finds the chair in the lake.
+the fish is an animal but the car is a vehicle.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+the fish is an animal but the bike is a vehicle.
+the cow eats grass in the farm.
+the car of bob is white.
+the brown train is near the room and the fish is in the room.
+a bus is a vehicle.
+mary gives meat to her dog.
+the cat is an animal.
+john sees his cat in the house.
+the bike is green.
+
+john walks with the cat in the kitchen.
+the cat sees a bag.
+the cat plays with the bag.
+the fish eats seeds and the boat moves on the water.
+the car is white.
+bob is at the river.
+the bird lives in the tree.
+bob rides the yellow boat.
+the boat is near the school.
+alice finds the chair in the room.
+the bird comes from the tree.
+the horse of tom eats grass.
+mary gives seeds to the bird because the bird likes seeds.
+the duck likes seeds because seeds is food.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the village.
+this is the road.
+mary goes on the boat.
+bob sees his car.
+
+anna has a bike.
+the bike is green.
+the bike moves on the road.
+the door is in the garden.
+the white truck is at the garden.
+the table is on the chair.
+
+anna is in the village.
+anna sees the ball.
+the ball is brown.
+the dog sees the bed.
+the horse sleeps in the farm.
+the horse is an animal and the bus is a vehicle.
+
+the car is at the park.
+bob goes on the car.
+the car moves on the road.
+the book is blue.
+the door is under the table.
+bob is at the park.
+the table is on the chair.
+the blue train is at the room.
+the rabbit sees the window.
+the rabbit drinks water.
+john sees his cat.
+
+john is in the house.
+john sees the door.
+the door is yellow.
+alice drives the bus.
+john goes to the lake with his cat.
+a cat is an animal.
+the cat comes from the house and goes to the lake.
+anna rides the bike on the road.
+the bed is on the bed.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+john sees his cat in the house.
+the cat sits in the house.
+the boat comes from the kitchen.
+
+tom is in the farm.
+tom sees the table.
+the table is white.
+the duck eats seeds.
+
+the table is in the city.
+bob finds the table.
+bob takes the table.
+the horse drinks water.
+the dog runs in the school.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+the duck sits in the lake.
+the bird sleeps in the park.
+
+anna has a bike.
+the bike is green.
+the bike moves on the road.
+alice gives seeds to her bird.
+tom finds grass and the horse eats the grass.
+the cat drinks water.
+bob drives the red bus.
+
+anna has a bike.
+the bike is brown.
+the bike moves on the road.
+the garden is in the village.
+john gives fish to the cat.
+the bus is red.
+the truck is near the park.
+mary sees her dog.
+the bike belongs to anna.
+the dog belongs to mary.
+anna takes the table.
+the bird drinks water.
+the chair is in the city.
+the mouse is an animal but the bus is a vehicle.
+the white boat is at the village.
+the rabbit lives in the garden.
+this is a duck.
+
+mary is in the lake.
+mary sees the box.
+the box is yellow.
+the farm has a red bed.
+the bird eats seeds and the bus moves on the road.
+this train is white.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+the cow plays with a table.
+the river has a red bag.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+the cow is white.
+
+bob is in the city.
+bob sees the bag.
+the bag is blue.
+the red bike moves on the road.
+mary goes to the park with her dog.
+the boat moves on the water and the boat is red.
+the cat drinks water.
+john sees his cat in the house.
+the car is a vehicle.
+a horse is an animal.
+the rabbit sits in the garden.
+tom finds grass and the horse eats the grass.
+the kitchen has a black table.
+the book is on the table and the ball is under the table.
+this is a fish.
+the bus moves on the road.
+a cow lives on the farm.
+
+john has a cat.
+the cat sees a fish.
+the cat eats the fish.
+john likes his cat.
+the bike of anna is white.
+anna finds the chair in the road.
+
+the door is in the city.
+tom finds the door.
+tom takes the door.
+this bike is white.
+bob goes on the bike.
+tom rides the train.
+the bird is an animal and the boat is a vehicle.
+
+mary is in the village.
+mary sees the chair.
+the chair is black.
+the bus moves on the road.
+the bus moves on the road and the bus is red.
+the cow sits on the farm.
+this is the road.
+the brown book is in the park.
+the ball is under the chair.
+the horse is an animal and the boat is a vehicle.
+the mouse sleeps in the room.
+the garden has a ball.
+the school has a black chair.
+mary finds meat and the dog eats the meat.
+the black bus is near the road and the fish is in the road.
+the rabbit sits in the garden.
+john sees his cat.
+the cat of john eats fish.
+the boat is red.
+the mouse lives in the kitchen but the boat is on the water.
+the duck likes seeds because seeds is food.
+the cow lives on the farm.
+
+anna has a bike.
+the bike is white.
+the bike moves on the road.
+this is a cat.
+this is a fish.
+the horse lives on the farm but the bike is on the road.
+
+the car is brown.
+bob drives the brown car.
+
+alice walks with the bird in the room.
+the bird sees a bag.
+the bird plays with the bag.
+the cow sleeps in the school.
+the house is in the city.
+anna takes the bed.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the lake.
+
+mary walks with the dog in the lake.
+the dog sees a door.
+the dog plays with the door.
+the bird belongs to alice.
+a fish is an animal.
+
+anna is in the school.
+anna sees the ball.
+the ball is brown.
+seeds is food for the duck.
+the duck eats seeds.
+the fish eats seeds in the water.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+john and the cat walk in the village.
+the horse eats grass and the bike moves on the road.
+the bike of anna is yellow.
+anna has a bike.
+the fish plays with a door.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+the village has a yellow bed.
+mary likes her dog.
+the door is in the lake.
+a cat likes fish.
+the bike moves on the road and the bike is yellow.
+the cow runs in the city.
+the dog lives in the house but the bike is on the road.
+
+john is in the house.
+john sees the chair.
+the chair is red.
+the blue car is at the garden.
+
+john is in the lake.
+john sees the window.
+the window is blue.
+the bike moves on the road.
+the bird belongs to alice.
+the fish finds seeds.
+the bird walks in the farm.
+anna has a bike.
+the duck sleeps in the house.
+seeds is food for the duck.
+the boat is near the river.
+the cow eats grass in the farm.
+the mouse comes from the kitchen and goes to the road.
+
+the bike is green.
+anna rides the green bike.
+tom goes to the farm with his horse.
+john takes the cat to the lake.
+the brown truck moves on the road.
+the house has a brown book.
+the ball is blue.
+the table is on the table.
+the car of bob is white.
+anna rides the bike on the road.
+the bag is in the farm.
+anna goes to the road with her bike.
+the bird walks in the park.
+the duck plays with a book.
+the car comes from the city.
+john takes the cat to the garden.
+a dog lives in the house.
+mary likes her dog.
+john likes the duck and the truck.
+the mouse eats bread and the bike moves on the road.
+tom goes to the park with his horse.
+alice and the bird walk in the road.
+anna rides the bike on the road.
+the white truck moves on the road.
+a dog likes meat.
+the horse lives on the farm.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+the bird comes from the tree.
+a bird likes seeds.
+the black boat is near the farm and the mouse is in the farm.
+anna rides the bike on the road.
+the mouse is an animal and the truck is a vehicle.
+bob drives the car on the road.
+the bird eats seeds in the tree.
+the rabbit sleeps in the park.
+
+the car is at the village.
+bob goes on the car.
+the car moves on the road.
+the rabbit eats carrot and the train moves on the railway.
+the river has a bag.
+john takes the cat to the room.
+the fish is an animal and the train is a vehicle.
+
+mary walks with the dog in the city.
+the dog sees a bag.
+the dog plays with the bag.
+a fish is an animal.
+the kitchen has a white book.
+
+bob has a car.
+the car is white.
+the car moves on the road.
+the window is white.
+
+john is in the farm.
+john sees the bag.
+the bag is brown.
+
+the door is in the kitchen.
+mary finds the door.
+mary takes the door.
+the train is near the house.
+the bird sits in the tree.
+the mouse lives in the kitchen but the car is on the road.
+
+mary walks with the dog in the city.
+the dog sees a door.
+the dog plays with the door.
+a fish is an animal.
+the fish lives in the water.
+mary gives meat to the dog.
+bob gives seeds to the duck because the duck likes seeds.
+the cat lives in the house but the bus is on the road.
+a bed is in the farm.
+seeds is food for the bird.
+the mouse is blue.
+bob gives meat to the dog because the dog likes meat.
+the rabbit likes carrot because carrot is food.
+
+john has a cat.
+the cat likes fish.
+the black car is near the lake and the duck is in the lake.
+the cat drinks water.
+the red bus is at the village.
+the train comes from the garden.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+the bus is yellow.
+the cat eats fish in the house.
+the cat sees the window.
+bob likes the mouse and the car.
+john sits on the bed in the village.
+the train is near the river.
+john sees his cat in the house.
+the car of bob is white.
+the mouse drinks water.
+the door is in the lake.
+the horse eats grass in the farm.
+the fish sees the window and the fish plays with the window.
+a dog likes meat.
+this is the garden.
+a fish is an animal.
+the rabbit sits in the garden.
+
+the bag is in the village.
+tom finds the bag.
+tom takes the bag.
+
+tom walks with the horse in the farm.
+the horse sees a ball.
+the horse plays with the ball.
+the window is under the box.
+the boat moves on the water.
+bob takes the book.
+the fish runs in the road.
+alice has a bird.
+the rabbit is red.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+
+bob has a car.
+the car is yellow.
+the car moves on the road.
+bob goes to the city with his car.
+the horse likes grass because grass is food.
+tom finds grass and the horse eats the grass.
+the boat comes from the lake.
+the mouse sees the box.
+tom goes to the room with his horse.
+the table is near the chair.
+the bird likes seeds because seeds is food.
+the brown car moves on the road.
+the car of bob is white.
+the cat plays with a bag.
+the bus moves on the road and the bus is brown.
+a duck lives in the lake.
+tom drives the car.
+this is a cow.
+
+the box is in the house.
+bob finds the box.
+bob takes the box.
+the window is in the river.
+
+the ball is in the park.
+bob finds the ball.
+bob takes the ball.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the park.
+tom gives the bed to anna.
+bob gives the ball to alice.
+the rabbit walks in the house.
+a bike moves on the road.
+the horse plays with a ball.
+john sits on the box in the school.
+meat is food for the dog.
+this is bob.
+the yellow book is in the lake.
+the window is yellow.
+this is the kitchen.
+
+anna is in the river.
+anna sees the book.
+the book is green.
+the horse runs in the farm.
+the duck finds seeds.
+the bird eats seeds.
+anna rides the bike on the road.
+the rabbit lives in the garden.
+tom takes the horse to the garden.
+
+the bike is at the park.
+anna goes on the bike.
+the bike moves on the road.
+the bike is a vehicle.
+john finds the book in the garden.
+mary gives meat to the dog.
+the cat lives in the house but the bus is on the road.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the school.
+a box is in the city.
+the cow is blue.
+
+john walks with the cat in the road.
+the cat sees a table.
+the cat plays with the table.
+the rabbit sees the bed and the rabbit plays with the bed.
+the fish comes from the water and goes to the lake.
+the duck runs in the school.
+
+the bike is at the park.
+anna goes on the bike.
+the bike moves on the road.
+the mouse comes from the kitchen.
+mary gives meat to her dog.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+the yellow boat is at the park.
+bob has a car.
+the red boat is at the garden.
+mary gives the door to mary.
+the bird sits in the tree.
+this is a horse.
+the cat walks in the river.
+the truck comes from the kitchen.
+this car is red.
+a duck lives in the lake.
+the window is in the river.
+this bike is red.
+
+anna has a bike.
+the bike is blue.
+the bike moves on the road.
+alice goes to the garden with her bird.
+the duck finds seeds.
+alice likes her bird.
+mary finds meat and the dog eats the meat.
+the brown truck is at the garden.
+the cat lives in the house but the boat is on the water.
+the car is white.
+the mouse eats bread and the truck moves on the road.
+the farm is in the city.
+tom finds the door in the garden.
+john has a cat.
+john takes the cat to the lake.
+anna likes her bike.
+the horse belongs to tom.
+the window is on the bed.
+the cat of john eats fish.
+tom sees the rabbit near the car.
+the duck is an animal and the boat is a vehicle.
+
+mary has a dog.
+the dog likes meat.
+the dog sleeps in the farm.
+
+bob has a car.
+the car is green.
+the car moves on the road.
+the bike moves on the road.
+bob is at the lake.
+tom gives grass to the horse.
+seeds is food for the bird.
+bob takes the chair.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+the white bike is at the park.
+anna and the bike walk in the kitchen.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the city.
+the fish drinks water.
+the fish sees the bed.
+john finds the chair in the city.
+the cat eats fish.
+the black train is near the kitchen and the dog is in the kitchen.
+the dog comes from the house and goes to the house.
+a chair is in the river.
+john takes the cat to the school.
+mary finds the bag in the lake.
+alice has a bird.
+tom goes to the river with his horse.
+the book is on the table and the ball is under the table.
+the cow sees the door.
+the window is in the lake.
+fish is food for the cat.
+the blue truck is near the house and the fish is in the house.
+tom takes the table.
+the box is in the school.
+a door is in the river.
+tom sees his horse in the farm.
+the book is on the table and the ball is under the table.
+this is alice.
+the cow eats grass in the farm.
+the cat eats fish in the house.
+the yellow boat is near the village and the horse is in the village.
+the bus moves on the road.
+the dog finds meat.
+the red door is in the village.
+
+anna has a bike.
+the bike is green.
+the bike moves on the road.
+alice takes the bird to the kitchen.
+this is a rabbit.
+
+anna is in the garden.
+anna sees the box.
+the box is blue.
+john gives fish to the cat.
+the duck sleeps in the kitchen.
+the cow drinks water.
+the bike of anna is black.
+the mouse sits in the kitchen.
+the bus moves on the road.
+the bird runs in the road.
+bob sits on the box in the farm.
+anna likes her bike.
+the cat comes from the house and goes to the lake.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+the green bus is near the house and the cow is in the house.
+the duck eats seeds in the lake.
+anna gives the window to anna.
+the bird drinks water.
+bob gives the door to mary.
+
+the box is in the village.
+alice finds the box.
+alice takes the box.
+the duck is an animal.
+alice sees her bird in the tree.
+john gives the bag to bob.
+the mouse eats bread.
+the rabbit is green.
+
+john walks with the cat in the house.
+the cat sees a chair.
+the cat plays with the chair.
+the bed is under the table.
+the cow eats grass and the train moves on the railway.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+the yellow train moves on the railway.
+the book is on the bed.
+tom gives the book to anna.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+the train is a vehicle.
+the truck is black.
+the kitchen is in the city.
+the fish is an animal and the car is a vehicle.
+a horse is an animal.
+john gives bread to the mouse because the mouse likes bread.
+mary sees her dog.
+the duck is black.
+the rabbit eats carrot and the bus moves on the road.
+the horse lives on the farm.
+tom takes the bed.
+a horse likes grass.
+the window is in the school.
+the bird likes seeds because seeds is food.
+the horse eats grass in the farm.
+the horse runs in the city.
+bob sees the cow near the train.
+
+the bike is at the village.
+anna goes on the bike.
+the bike moves on the road.
+the truck is near the kitchen.
+the bird is an animal but the train is a vehicle.
+john goes to the lake with his cat.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the horse belongs to tom.
+the bird eats seeds in the tree.
+
+the window is in the road.
+anna finds the window.
+anna takes the window.
+the cat walks in the river.
+
+the box is in the park.
+alice finds the box.
+alice takes the box.
+the car of bob is red.
+alice gives seeds to the bird.
+the chair is white.
+the duck is green.
+the horse eats grass.
+mary finds meat and the dog eats the meat.
+tom gives grass to his horse.
+the dog eats meat and the bus moves on the road.
+
+anna is in the school.
+anna sees the book.
+the book is brown.
+a horse likes grass.
+john finds the ball in the village.
+the book is on the table and the ball is under the table.
+the chair is near the box.
+bob goes on the bike.
+the cat is an animal.
+the fish comes from the water.
+seeds is food for the bird.
+a mouse likes bread.
+
+anna has a bike.
+the bike is brown.
+the bike moves on the road.
+
+the bed is in the river.
+john finds the bed.
+john takes the bed.
+
+the car is blue.
+bob drives the blue car.
+the bus is near the school.
+the fish lives in the water but the car is on the road.
+bob is at the park.
+the fish eats seeds.
+the rabbit is an animal but the train is a vehicle.
+the bird comes from the tree.
+the cow lives on the farm.
+a bird is an animal.
+bob rides the bike.
+the yellow train moves on the railway.
+the dog eats meat.
+alice sees the dog near the boat.
+anna likes the mouse and the bike.
+the cat eats fish in the house.
+the horse walks in the village.
+the bird sees the window and the bird plays with the window.
+anna drives the bus.
+the train is red.
+
+alice has a bird.
+the bird likes seeds.
+bob drives the white truck.
+tom goes on the bus.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+the book is near the bed.
+the horse sees the box and the horse plays with the box.
+the yellow boat is near the village and the fish is in the village.
+the bird is an animal but the car is a vehicle.
+the farm is in the city.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+john sees his cat in the house.
+anna finds the ball in the house.
+the fish sits in the water.
+john finds fish and the cat eats the fish.
+the fish plays with a bag.
+the bird lives in the tree but the truck is on the road.
+the window is in the house.
+
+anna is in the room.
+anna sees the chair.
+the chair is yellow.
+a bus is a vehicle.
+the cat finds fish.
+the fish lives in the water.
+john finds fish and the cat eats the fish.
+the bird runs in the room.
+bob likes his car.
+the rabbit finds carrot.
+tom sees his horse in the farm.
+the ball is under the table.
+anna sits on the chair in the room.
+the truck moves on the road.
+anna goes on the car.
+bob likes his car.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+the black boat is near the river and the horse is in the river.
+the bird plays with a chair.
+the brown bed is in the road.
+
+the ball is in the kitchen.
+mary finds the ball.
+mary takes the ball.
+the rabbit eats carrot and the bike moves on the road.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the house.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+a bag is in the kitchen.
+john gives fish to the cat.
+a horse lives on the farm.
+the horse eats grass.
+mary goes to the village with her dog.
+the door is in the city.
+alice goes to the house with her bird.
+the cat sees the door and the cat plays with the door.
+the bike moves on the road.
+the bird is yellow.
+the bus is near the school.
+the train comes from the park.
+bob sits on the bed in the farm.
+the bird plays with a door.
+bob sits on the table in the lake.
+the rabbit drinks water.
+the school has a chair.
+
+mary walks with the dog in the city.
+the dog sees a bag.
+the dog plays with the bag.
+tom takes the horse to the room.
+mary likes the duck and the boat.
+the lake has a brown door.
+this is a fish.
+the rabbit lives in the garden.
+the window is in the room.
+
+the ball is in the village.
+anna finds the ball.
+anna takes the ball.
+a boat is a vehicle.
+the mouse is brown.
+the farm is in the village.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+
+john walks with the cat in the house.
+the cat sees a bed.
+the cat plays with the bed.
+the bag is on the bed.
+the lake has a white bag.
+the book is on the table and the ball is under the table.
+mary is at the lake.
+the cow sees the bag.
+
+alice is in the house.
+alice sees the ball.
+the ball is white.
+
+anna is in the room.
+anna sees the window.
+the window is black.
+anna rides the bike on the road.
+the table is on the bed.
+the bus moves on the road and the bus is black.
+the mouse is an animal.
+the rabbit sees the box.
+a rabbit lives in the garden.
+the cow is green.
+tom rides the train.
+anna sees her bike.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+the bird sees the book.
+
+john has a cat.
+the cat likes fish.
+mary drives the truck.
+the cow sees the book.
+bob takes the car to the school.
+the door is in the room.
+
+alice has a bird.
+the bird likes seeds.
+the fish lives in the water.
+the fish is an animal and the bus is a vehicle.
+this boat is green.
+the window is in the road.
+the fish eats seeds in the water.
+the red chair is in the lake.
+the bus is red.
+a horse is an animal.
+the dog of mary eats meat.
+the cat of john eats fish.
+mary is at the farm.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+the rabbit comes from the garden and goes to the school.
+the river has a blue book.
+the cow eats grass.
+the cow sleeps in the river.
+the table is in the park.
+bob has a car.
+this bus is blue.
+the dog sits in the house.
+anna takes the table.
+mary likes her dog.
+the horse walks in the farm.
+the yellow bus moves on the road.
+bob likes the fish and the train.
+
+the chair is in the village.
+mary finds the chair.
+mary takes the chair.
+john and the cat walk in the city.
+a chair is in the village.
+
+mary walks with the dog in the room.
+the dog sees a book.
+the dog plays with the book.
+the car is black.
+mary and the dog walk in the city.
+john and the cat walk in the river.
+the door is in the kitchen.
+a boat is a vehicle.
+alice likes her bird.
+tom likes the cow and the boat.
+the cow comes from the farm and goes to the road.
+the book is red.
+bob and the car walk in the village.
+the lake is in the village.
+the bird is blue.
+the boat is a vehicle.
+the truck comes from the village.
+the blue bike is near the road and the cow is in the road.
+anna gives grass to the cow because the cow likes grass.
+the duck is an animal but the boat is a vehicle.
+
+the car is at the house.
+bob goes on the car.
+the car moves on the road.
+the fish lives in the water but the train is on the railway.
+the ball is near the bed.
+the book is on the box.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+a fish lives in the water.
+the rabbit eats carrot in the garden.
+
+the bike is blue.
+anna rides the blue bike.
+
+alice has a bird.
+the bird likes seeds.
+a box is in the village.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the village.
+
+the door is in the village.
+john finds the door.
+john takes the door.
+this is tom.
+the green table is in the kitchen.
+the horse is an animal and the train is a vehicle.
+the bag is on the bed.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+mary finds meat and the dog eats the meat.
+a truck moves on the road.
+this is mary.
+the dog drinks water.
+the fish comes from the water and goes to the farm.
+john sees his cat.
+this is the village.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+
+anna is in the school.
+anna sees the chair.
+the chair is white.
+the cat sleeps in the farm.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the park.
+the bed is yellow.
+the car of bob is yellow.
+mary takes the ball.
+
+tom walks with the horse in the park.
+the horse sees a window.
+the horse plays with the window.
+tom gives grass to the cow because the cow likes grass.
+john sees his cat in the house.
+the car moves on the road.
+the cow eats grass in the farm.
+the red truck is near the kitchen and the rabbit is in the kitchen.
+a car moves on the road.
+tom gives the door to bob.
+the door is in the park.
+alice drives the bus.
+the rabbit is an animal and the boat is a vehicle.
+the bird eats seeds in the tree.
+grass is food for the cow.
+mary sees her dog in the house.
+bob goes to the city with his car.
+the door is in the farm.
+the dog is green.
+the mouse is an animal and the car is a vehicle.
+
+john has a cat.
+the cat sees a fish.
+the cat eats the fish.
+
+anna is in the park.
+anna sees the ball.
+the ball is red.
+the book is on the table and the ball is under the table.
+anna and the bike walk in the park.
+the cow plays with a ball.
+anna sits on the box in the lake.
+this is the lake.
+bob is at the house.
+the box is near the bed.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+the truck comes from the road.
+bob has a car.
+
+john walks with the cat in the park.
+the cat sees a bag.
+the cat plays with the bag.
+the truck moves on the road and the truck is black.
+a ball is in the city.
+anna rides the bike on the road.
+
+the car is yellow.
+bob drives the yellow car.
+the boat comes from the river.
+bob goes to the house with his car.
+john gives the door to bob.
+a fish is an animal.
+the green truck is at the house.
+the window is in the house.
+the bus is near the garden.
+the bird drinks water.
+tom is at the river.
+the city has a black book.
+the bird eats seeds in the tree.
+mary goes to the garden with her dog.
+
+the car is white.
+bob drives the white car.
+the train moves on the railway and the train is black.
+anna goes to the room with her bike.
+tom rides the black boat.
+
+john is in the kitchen.
+john sees the door.
+the door is white.
+anna sees the dog near the bike.
+the fish likes seeds because seeds is food.
+anna drives the car.
+
+the chair is in the road.
+mary finds the chair.
+mary takes the chair.
+a bus moves on the road.
+the farm has a ball.
+a dog is an animal.
+the door is in the park.
+the fish lives in the water but the truck is on the road.
+the train is near the house.
+bob is at the river.
+the horse of tom eats grass.
+a mouse is an animal.
+the dog sees the table.
+john sees his cat in the house.
+the rabbit comes from the garden.
+john gives fish to his cat.
+the bird eats seeds and the truck moves on the road.
+this is a cow.
+the house is in the city.
+
+anna has a bike.
+the bike is white.
+the bike moves on the road.
+the car moves on the road and the car is white.
+the dog eats meat and the bus moves on the road.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+the mouse walks in the park.
+the rabbit plays with a bag.
+the chair is in the house.
+
+alice has a bird.
+the bird likes seeds.
+the door is under the bed.
+the park has a bed.
+the cow is an animal and the boat is a vehicle.
+alice has a bird.
+the bag is under the box.
+the dog belongs to mary.
+the dog belongs to mary.
+tom takes the horse to the farm.
+
+john has a cat.
+the cat likes fish.
+the boat is white.
+alice gives seeds to her bird.
+bob likes the bird and the bus.
+the duck is an animal but the bike is a vehicle.
+mary rides the red train.
+anna goes on the boat.
+this is a cat.
+the rabbit sees the table and the rabbit plays with the table.
+john has a cat.
+grass is food for the horse.
+the cow plays with a bag.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+the horse sits on the farm.
+bob has a car.
+alice sits on the chair in the house.
+the train comes from the river.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+this truck is yellow.
+the dog of mary eats meat.
+john gives meat to the dog because the dog likes meat.
+the bed is near the bed.
+the mouse is white.
+
+john has a cat.
+the cat likes fish.
+alice goes to the room with her bird.
+
+the box is in the house.
+bob finds the box.
+bob takes the box.
+anna takes the bike to the garden.
+john goes to the village with his cat.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+john finds fish and the cat eats the fish.
+the rabbit is an animal but the car is a vehicle.
+the door is near the box.
+
+the window is in the garden.
+alice finds the window.
+alice takes the window.
+this is anna.
+a mouse lives in the kitchen.
+the cat eats fish and the truck moves on the road.
+a ball is in the school.
+a box is in the kitchen.
+the dog eats meat and the train moves on the railway.
+the fish drinks water.
+the rabbit lives in the garden but the truck is on the road.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+the green boat is near the room and the mouse is in the room.
+the horse comes from the farm.
+the brown car is near the farm and the rabbit is in the farm.
+the bike is near the city.
+john takes the table.
+anna and the bike walk in the room.
+
+mary walks with the dog in the farm.
+the dog sees a window.
+the dog plays with the window.
+a boat moves on the water.
+
+bob is in the road.
+bob sees the bag.
+the bag is black.
+the bird finds seeds.
+the bike belongs to anna.
+the bike of anna is white.
+the book is on the table and the ball is under the table.
+a dog is an animal.
+this is a dog.
+bob gives the box to mary.
+bob sees his car.
+the brown truck is at the park.
+
+alice is in the house.
+alice sees the bag.
+the bag is red.
+the window is in the river.
+the window is near the box.
+tom likes his horse.
+the dog walks in the river.
+a cat is an animal.
+the bike moves on the road and the bike is brown.
+seeds is food for the duck.
+a cat is an animal.
+mary sees her dog.
+the black table is in the garden.
+the brown boat is at the room.
+a rabbit is an animal.
+carrot is food for the rabbit.
+the door is in the village.
+a bike moves on the road.
+the rabbit lives in the garden.
+
+tom walks with the horse in the lake.
+the horse sees a box.
+the horse plays with the box.
+bob takes the car to the city.
+the duck sleeps in the road.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+the bike moves on the road and the bike is yellow.
+the brown train is near the house and the mouse is in the house.
+the window is in the city.
+the car belongs to bob.
+this is a mouse.
+tom sees his horse.
+the book is on the table and the ball is under the table.
+the horse drinks water.
+the bus moves on the road.
+the fish is yellow.
+tom has a horse.
+the horse belongs to tom.
+the cat eats fish.
+
+the bike is black.
+anna rides the black bike.
+bob sees his car.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+seeds is food for the fish.
+the green car is near the lake and the cow is in the lake.
+the truck moves on the road and the truck is green.
+the cat is an animal and the train is a vehicle.
+
+tom has a horse.
+the horse likes grass.
+the white bed is in the park.
+the window is in the school.
+the mouse sits in the kitchen.
+alice is at the kitchen.
+the duck lives in the lake but the car is on the road.
+the horse lives on the farm but the bike is on the road.
+a train is a vehicle.
+the fish comes from the water.
+a bird lives in the tree.
+the dog sees the bag.
+
+mary has a dog.
+the dog likes meat.
+the dog sleeps in the lake.
+the cat sees the book and the cat plays with the book.
+mary likes her dog.
+the duck is black.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+tom drives the bus.
+the cat lives in the house but the train is on the railway.
+
+the bag is in the river.
+tom finds the bag.
+tom takes the bag.
+mary gives meat to the dog.
+a rabbit likes carrot.
+the green car moves on the road.
+this bus is black.
+the blue boat is at the kitchen.
+the white car is at the city.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+the mouse is green.
+
+mary has a dog.
+the dog likes meat.
+john likes the duck and the bike.
+the cow is blue.
+the fish plays with a table.
+the truck moves on the road.
+the horse likes grass because grass is food.
+anna takes the bike to the river.
+
+john walks with the cat in the garden.
+the cat sees a window.
+the cat plays with the window.
+alice has a bird.
+mary gives grass to the horse because the horse likes grass.
+the bus comes from the house.
+the fish plays with a box.
+john likes the dog and the bus.
+the car is a vehicle.
+mary sees the horse near the boat.
+the mouse is green.
+this is tom.
+the cat is red.
+john sees his cat in the house.
+the dog likes meat because meat is food.
+
+alice has a bird.
+the bird likes seeds.
+alice sits on the chair in the garden.
+the truck comes from the park.
+bob sees the mouse near the truck.
+anna goes to the garden with her bike.
+the fish finds seeds.
+
+the bike is at the farm.
+anna goes on the bike.
+the bike moves on the road.
+the rabbit eats carrot and the boat moves on the water.
+the bus is a vehicle.
+the cow is an animal and the bike is a vehicle.
+this is a cat.
+
+the ball is in the kitchen.
+john finds the ball.
+john takes the ball.
+
+tom is in the kitchen.
+tom sees the box.
+the box is blue.
+the mouse is an animal and the bike is a vehicle.
+the duck lives in the lake.
+the window is in the road.
+alice gives the window to mary.
+the bus moves on the road.
+the cow lives on the farm.
+a car is a vehicle.
+the truck comes from the park.
+the bike of anna is green.
+alice sees her bird.
+the fish is an animal.
+mary drives the bus.
+john and the cat walk in the lake.
+the bike moves on the road.
+the bird lives in the tree.
+the boat comes from the city.
+a duck likes seeds.
+alice sees her bird.
+anna gives the door to tom.
+the door is blue.
+the yellow box is in the room.
+the kitchen has a yellow door.
+the cat eats fish in the house.
+the bus is a vehicle.
+anna sees the horse near the bike.
+the bird comes from the tree.
+john and the cat walk in the village.
+
+the car is black.
+bob drives the black car.
+tom takes the table.
+
+the car is at the road.
+bob goes on the car.
+the car moves on the road.
+anna drives the bus.
+the box is brown.
+tom rides the bike.
+this car is black.
+mary has a dog.
+mary sees her dog in the house.
+anna likes her bike.
+tom sees the horse near the bike.
+the river is in the city.
+
+bob has a car.
+the car is red.
+the car moves on the road.
+a car is a vehicle.
+this is john.
+the duck sleeps in the room.
+seeds is food for the fish.
+mary has a dog.
+anna likes her bike.
+the boat is yellow.
+the cow lives on the farm.
+alice is at the garden.
+
+the chair is in the village.
+bob finds the chair.
+bob takes the chair.
+the bird walks in the farm.
+the horse likes grass because grass is food.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+this is bob.
+the horse plays with a window.
+a table is in the lake.
+the cat sees the window.
+
+bob is in the farm.
+bob sees the bed.
+the bed is green.
+the cow comes from the farm and goes to the village.
+a cow likes grass.
+john finds the bag in the house.
+the train comes from the room.
+mary likes her dog.
+the rabbit sits in the garden.
+the horse comes from the farm and goes to the lake.
+the cow finds grass.
+the green car is at the road.
+the door is in the river.
+alice sees her bird in the tree.
+the bike is yellow.
+the train is a vehicle.
+a chair is in the river.
+the fish comes from the water.
+this is john.
+the cat is an animal and the boat is a vehicle.
+anna is at the school.
+anna has a bike.
+tom takes the horse to the garden.
+
+the bike is brown.
+anna rides the brown bike.
+the fish lives in the water.
+this train is black.
+the village has a white ball.
+mary takes the chair.
+anna rides the train.
+the rabbit plays with a bed.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the cow drinks water.
+bob goes on the boat.
+
+bob has a car.
+the car is blue.
+the car moves on the road.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the book is on the table and the ball is under the table.
+the brown train moves on the railway.
+bob sits on the table in the road.
+the horse drinks water.
+
+anna has a bike.
+the bike is white.
+the bike moves on the road.
+tom likes his horse.
+the bike moves on the road and the bike is green.
+the rabbit is an animal and the boat is a vehicle.
+john gives bread to the mouse because the mouse likes bread.
+the cow is green.
+the cat is white.
+the rabbit sleeps in the school.
+the train is yellow.
+a horse likes grass.
+the bike comes from the room.
+
+john walks with the cat in the city.
+the cat sees a box.
+the cat plays with the box.
+
+the car is at the village.
+bob goes on the car.
+the car moves on the road.
+tom gives bread to the mouse because the mouse likes bread.
+the book is on the table and the ball is under the table.
+the dog sees the window and the dog plays with the window.
+alice sits on the bed in the kitchen.
+the cat runs in the road.
+a bike moves on the road.
+the fish likes seeds because seeds is food.
+anna goes to the house with her bike.
+the farm is in the village.
+the brown train is at the river.
+this is a cat.
+alice likes her bird.
+
+anna is in the village.
+anna sees the table.
+the table is black.
+the boat comes from the kitchen.
+the duck sits in the lake.
+the truck is near the school.
+alice finds seeds and the bird eats the seeds.
+the fish plays with a box.
+the truck is near the kitchen.
+the window is under the box.
+the red car is at the village.
+anna has a bike.
+mary takes the bed.
+the bird comes from the tree and goes to the river.
+the house has a bag.
+mary gives seeds to the bird because the bird likes seeds.
+the duck is an animal and the bike is a vehicle.
+bob has a car.
+this car is yellow.
+the book is on the table and the ball is under the table.
+mary gives meat to the dog.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+the boat is brown.
+this is the school.
+
+alice walks with the bird in the farm.
+the bird sees a window.
+the bird plays with the window.
+the bus is green.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+anna is at the farm.
+the mouse sits in the kitchen.
+the rabbit comes from the garden.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+john likes his cat.
+the table is on the bed.
+the door is in the city.
+alice is at the park.
+the rabbit lives in the garden but the car is on the road.
+the table is under the bed.
+the fish is an animal and the boat is a vehicle.
+a cow likes grass.
+the mouse is an animal but the bus is a vehicle.
+this is john.
+the bed is in the house.
+
+mary is in the school.
+mary sees the chair.
+the chair is white.
+john has a cat.
+
+tom has a horse.
+the horse likes grass.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+the duck comes from the lake and goes to the city.
+the bird is an animal but the truck is a vehicle.
+the horse plays with a box.
+the mouse drinks water.
+
+the window is in the school.
+bob finds the window.
+bob takes the window.
+bob rides the green train.
+
+tom is in the village.
+tom sees the bag.
+the bag is white.
+a bike is a vehicle.
+the fish eats seeds.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+the table is on the chair.
+the black truck is near the river and the bird is in the river.
+a table is in the road.
+a bag is in the school.
+the house has a blue bag.
+
+the car is black.
+bob drives the black car.
+the rabbit is an animal but the train is a vehicle.
+mary drives the car.
+
+alice has a bird.
+the bird likes seeds.
+
+john walks with the cat in the village.
+the cat sees a window.
+the cat plays with the window.
+the rabbit runs in the room.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+anna finds the table in the garden.
+the cow is an animal but the bus is a vehicle.
+bob likes his car.
+the yellow bus is at the park.
+the cow sits on the farm.
+the window is in the river.
+the dog walks in the school.
+
+mary has a dog.
+the dog likes meat.
+the dog drinks water.
+the lake has a green bed.
+the window is on the chair.
+the horse sees the bed.
+the cow is an animal.
+the truck is white.
+the bike is a vehicle.
+bob takes the car to the room.
+john takes the door.
+mary and the dog walk in the house.
+this is a mouse.
+the book is on the table and the ball is under the table.
+
+the car is at the city.
+bob goes on the car.
+the car moves on the road.
+the cow is an animal and the truck is a vehicle.
+the horse eats grass in the farm.
+alice likes her bird.
+alice sits on the box in the room.
+the dog is an animal but the bike is a vehicle.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+john likes the dog and the car.
+the kitchen is in the village.
+the cow is green.
+
+mary has a dog.
+the dog likes meat.
+the dog sleeps in the kitchen.
+the chair is under the box.
+the train is near the school.
+the dog belongs to mary.
+the bird is an animal but the car is a vehicle.
+the fish walks in the lake.
+a bird lives in the tree.
+the bird comes from the tree.
+the duck is an animal and the truck is a vehicle.
+
+the bike is at the kitchen.
+anna goes on the bike.
+the bike moves on the road.
+the duck is an animal but the boat is a vehicle.
+a fish lives in the water.
+the train is a vehicle.
+
+tom is in the farm.
+tom sees the table.
+the table is black.
+the cat of john eats fish.
+the dog walks in the house.
+the garden is in the village.
+
+mary has a dog.
+the dog likes meat.
+the cow likes grass because grass is food.
+
+the bike is at the room.
+anna goes on the bike.
+the bike moves on the road.
+this is a horse.
+this is bob.
+the cat finds fish.
+the duck eats seeds.
+the mouse lives in the kitchen.
+the bird eats seeds in the tree.
+the cat comes from the house and goes to the city.
+the car moves on the road and the car is green.
+john rides the green boat.
+
+the bike is black.
+anna rides the black bike.
+the duck eats seeds and the bike moves on the road.
+a cat is an animal.
+the box is under the table.
+john gives carrot to the rabbit because the rabbit likes carrot.
+mary likes her dog.
+
+the bike is at the city.
+anna goes on the bike.
+the bike moves on the road.
+bob drives the car on the road.
+this is a mouse.
+mary sits on the chair in the school.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the house.
+alice takes the bird to the kitchen.
+carrot is food for the rabbit.
+this train is brown.
+the duck eats seeds.
+the bird is green.
+
+tom walks with the horse in the river.
+the horse sees a window.
+the horse plays with the window.
+the bike of anna is green.
+
+alice walks with the bird in the room.
+the bird sees a bag.
+the bird plays with the bag.
+the dog lives in the house but the truck is on the road.
+the bird is blue.
+bob rides the yellow bike.
+the lake has a table.
+the car comes from the city.
+bob gives the bag to bob.
+alice goes to the school with her bird.
+the fish walks in the house.
+tom gives grass to the horse.
+the window is red.
+a bike is a vehicle.
+the truck is a vehicle.
+mary sees the rabbit near the train.
+bob and the car walk in the room.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+the mouse is brown.
+the duck comes from the lake and goes to the school.
+bob goes to the road with his car.
+the rabbit is an animal but the train is a vehicle.
+the road has a chair.
+the house has a chair.
+this is john.
+the car comes from the village.
+anna has a bike.
+
+the car is at the school.
+bob goes on the car.
+the car moves on the road.
+the bus is a vehicle.
+the rabbit runs in the park.
+the cat is an animal and the bus is a vehicle.
+the bed is white.
+seeds is food for the fish.
+a bus moves on the road.
+
+john has a cat.
+the cat likes fish.
+anna sees the fish near the boat.
+the boat is near the road.
+the cow plays with a door.
+
+alice walks with the bird in the school.
+the bird sees a box.
+the bird plays with the box.
+the rabbit finds carrot.
+a bike is a vehicle.
+this is the road.
+the green ball is in the lake.
+
+the bed is in the river.
+bob finds the bed.
+bob takes the bed.
+the cat runs in the lake.
+the horse comes from the farm.
+the box is on the bed.
+the duck sleeps in the road.
+
+the car is at the lake.
+bob goes on the car.
+the car moves on the road.
+the cat sleeps in the house.
+the green bus moves on the road.
+john likes his cat.
+the truck is a vehicle.
+the blue boat is at the garden.
+mary takes the book.
+the dog sees the table and the dog plays with the table.
+the boat is white.
+the bird walks in the park.
+the lake is in the city.
+john takes the cat to the city.
+the cat finds fish.
+the mouse likes bread because bread is food.
+the bus is red.
+bob sits on the table in the road.
+
+anna has a bike.
+the bike is blue.
+the bike moves on the road.
+the car is near the garden.
+the horse sees the box.
+the cat plays with a bag.
+the fish runs in the village.
+the cow drinks water.
+the white window is in the river.
+tom gives seeds to the bird because the bird likes seeds.
+the dog sees the book.
+the bird belongs to alice.
+
+the door is in the park.
+john finds the door.
+john takes the door.
+the window is in the room.
+the cat is an animal.
+the horse eats grass in the farm.
+seeds is food for the fish.
+john has a cat.
+the horse is an animal but the truck is a vehicle.
+the rabbit drinks water.
+the mouse eats bread and the bike moves on the road.
+alice gives fish to the cat because the cat likes fish.
+the window is in the house.
+bob takes the car to the village.
+tom and the horse walk in the house.
+
+mary walks with the dog in the river.
+the dog sees a book.
+the dog plays with the book.
+the cow sees the bed and the cow plays with the bed.
+this is the house.
+tom rides the train.
+the rabbit is yellow.
+the lake has a brown ball.
+the bird belongs to alice.
+bob gives the box to tom.
+this is the room.
+a car is a vehicle.
+anna drives the green car.
+the horse finds grass.
+tom gives grass to the horse.
+
+tom has a horse.
+the horse likes grass.
+a fish likes seeds.
+john sees his cat.
+
+the book is in the house.
+tom finds the book.
+tom takes the book.
+the cow sleeps in the lake.
+a train moves on the railway.
+tom finds the chair in the city.
+a bus moves on the road.
+a boat is a vehicle.
+the dog is an animal and the bike is a vehicle.
+the cat eats fish in the house.
+bob drives the car on the road.
+
+tom has a horse.
+the horse likes grass.
+the dog is an animal but the boat is a vehicle.
+the horse is yellow.
+the boat is near the river.
+
+the bed is in the lake.
+bob finds the bed.
+bob takes the bed.
+alice takes the door.
+a box is in the park.
+the bike is near the garden.
+tom sits on the chair in the lake.
+anna likes her bike.
+a truck is a vehicle.
+the rabbit runs in the room.
+the cat is black.
+the cow lives on the farm but the truck is on the road.
+the truck moves on the road.
+the city has a blue book.
+the boat is near the house.
+tom likes his horse.
+the bird comes from the tree and goes to the kitchen.
+the park has a window.
+
+anna has a bike.
+the bike is green.
+the bike moves on the road.
+the car is a vehicle.
+this is the kitchen.
+the horse is an animal but the car is a vehicle.
+john likes his cat.
+the cow is blue.
+
+the chair is in the city.
+anna finds the chair.
+anna takes the chair.
+mary goes to the kitchen with her dog.
+the car comes from the house.
+a train moves on the railway.
+the cat sits in the house.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+the table is under the bed.
+the farm has a black chair.
+mary likes the dog and the car.
+the ball is on the bed.
+tom gives grass to the horse.
+the cow plays with a chair.
+tom sees his horse.
+john has a cat.
+the black box is in the school.
+
+the book is in the garden.
+bob finds the book.
+bob takes the book.
+the book is on the table and the ball is under the table.
+this car is black.
+the green bus is near the village and the fish is in the village.
+the dog is an animal.
+this is the house.
+the bird drinks water.
+the mouse plays with a bag.
+
+the chair is in the garden.
+bob finds the chair.
+bob takes the chair.
+the bike is white.
+the green car is near the city and the cow is in the city.
+a dog lives in the house.
+the ball is on the box.
+the white bag is in the lake.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+the bed is green.
+mary drives the car.
+a dog lives in the house.
+the bird is an animal and the bike is a vehicle.
+
+the bike is at the road.
+anna goes on the bike.
+the bike moves on the road.
+anna sees her bike.
+john sees his cat.
+the duck is an animal but the truck is a vehicle.
+the rabbit likes carrot because carrot is food.
+this is a fish.
+the cow sees the bed.
+bob has a car.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the river.
+the fish eats seeds in the water.
+anna takes the bike to the river.
+fish is food for the cat.
+the room has a black book.
+the kitchen has a black door.
+the window is in the city.
+the boat is red.
+john goes to the room with his cat.
+the car belongs to bob.
+the dog is an animal.
+the truck moves on the road.
+the bike belongs to anna.
+a rabbit is an animal.
+
+the car is yellow.
+bob drives the yellow car.
+the truck moves on the road and the truck is brown.
+john gives the ball to anna.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+the book is in the kitchen.
+
+the bag is in the house.
+anna finds the bag.
+anna takes the bag.
+alice gives the table to anna.
+the bird drinks water.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+the bird runs in the road.
+bread is food for the mouse.
+
+the car is at the city.
+bob goes on the car.
+the car moves on the road.
+this is a mouse.
+the fish is blue.
+a door is in the road.
+mary sees her dog.
+the duck lives in the lake.
+this is a rabbit.
+the bird comes from the tree and goes to the river.
+the bike comes from the park.
+the dog sees the bed.
+the bird lives in the tree but the bus is on the road.
+the boat moves on the water.
+a train moves on the railway.
+a boat is a vehicle.
+the rabbit finds carrot.
+the car moves on the road.
+
+bob is in the park.
+bob sees the ball.
+the ball is white.
+john and the cat walk in the river.
+
+tom has a horse.
+the horse likes grass.
+the fish walks in the road.
+the duck is an animal.
+the cat walks in the city.
+the bike is black.
+the mouse sleeps in the kitchen.
+the door is in the room.
+the cow eats grass in the farm.
+bob likes the fish and the truck.
+the dog walks in the city.
+
+tom is in the farm.
+tom sees the book.
+the book is white.
+the cow comes from the farm.
+
+bob has a car.
+the car is blue.
+the car moves on the road.
+the mouse sleeps in the village.
+
+anna is in the road.
+anna sees the table.
+the table is yellow.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+the window is white.
+the dog eats meat in the house.
+mary takes the table.
+the duck eats seeds and the truck moves on the road.
+the cow is an animal.
+anna sees the bird near the bus.
+the rabbit sits in the garden.
+this is the village.
+alice goes to the lake with her bird.
+mary finds the bed in the village.
+the horse runs in the road.
+a mouse lives in the kitchen.
+the yellow bike is near the kitchen and the dog is in the kitchen.
+the box is under the bed.
+the train comes from the house.
+this boat is red.
+the mouse is an animal and the train is a vehicle.
+alice finds seeds and the bird eats the seeds.
+the bird eats seeds.
+the bird of alice eats seeds.
+the train is a vehicle.
+mary and the dog walk in the river.
+this is the city.
+
+alice is in the park.
+alice sees the window.
+the window is red.
+the train moves on the railway.
+the duck finds seeds.
+the yellow bus is near the city and the cat is in the city.
+a duck is an animal.
+the car of bob is black.
+the green truck is at the garden.
+the mouse drinks water.
+mary finds the window in the road.
+the duck walks in the city.
+a car moves on the road.
+the horse is black.
+the red ball is in the room.
+the bird sees the chair.
+alice is at the room.
+the window is in the river.
+tom rides the black boat.
+the rabbit runs in the farm.
+bob is at the park.
+the dog belongs to mary.
+a truck moves on the road.
+a mouse likes bread.
+the bike moves on the road and the bike is yellow.
+
+anna has a bike.
+the bike is blue.
+the bike moves on the road.
+the book is on the table and the ball is under the table.
+
+john walks with the cat in the school.
+the cat sees a bag.
+the cat plays with the bag.
+the bird finds seeds.
+the cat finds fish.
+the yellow boat is at the park.
+the red car is at the garden.
+the bus moves on the road and the bus is yellow.
+bob drives the car on the road.
+the blue box is in the house.
+this is mary.
+mary goes on the boat.
+john takes the cat to the road.
+anna gives grass to the cow because the cow likes grass.
+
+bob is in the village.
+bob sees the bag.
+the bag is green.
+the window is near the table.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+the cat plays with a book.
+a dog is an animal.
+a horse likes grass.
+the bird runs in the city.
+a bike moves on the road.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+
+anna has a bike.
+the bike is red.
+the bike moves on the road.
+a bus moves on the road.
+a boat moves on the water.
+a mouse likes bread.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+
+john walks with the cat in the river.
+the cat sees a box.
+the cat plays with the box.
+alice likes her bird.
+the bird of alice eats seeds.
+tom is at the lake.
+the mouse is an animal but the train is a vehicle.
+the horse is an animal and the bus is a vehicle.
+the duck sleeps in the house.
+a boat moves on the water.
+tom takes the horse to the school.
+the bus is green.
+the fish likes seeds because seeds is food.
+the dog runs in the river.
+
+mary has a dog.
+the dog likes meat.
+tom gives the bag to bob.
+bob finds the chair in the house.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the village.
+anna goes to the garden with her bike.
+
+tom is in the lake.
+tom sees the box.
+the box is red.
+the farm has a ball.
+mary sits on the table in the room.
+the bird sits in the tree.
+the window is in the farm.
+the road is in the village.
+
+mary walks with the dog in the house.
+the dog sees a bed.
+the dog plays with the bed.
+the fish is an animal but the boat is a vehicle.
+
+the book is in the farm.
+mary finds the book.
+mary takes the book.
+
+mary has a dog.
+the dog likes meat.
+the dog sleeps in the garden.
+the door is in the kitchen.
+
+the door is in the farm.
+alice finds the door.
+alice takes the door.
+the box is on the bed.
+the mouse walks in the school.
+the bike of anna is white.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+the cow comes from the farm and goes to the kitchen.
+
+mary is in the farm.
+mary sees the chair.
+the chair is brown.
+the horse eats grass in the farm.
+mary sees her dog in the house.
+the black bike is at the park.
+the cat eats fish in the house.
+the blue car is at the garden.
+the car of bob is green.
+bob is at the city.
+this is tom.
+the book is on the table and the ball is under the table.
+this is bob.
+
+the box is in the city.
+anna finds the box.
+anna takes the box.
+
+the bike is red.
+anna rides the red bike.
+the truck is a vehicle.
+
+the chair is in the park.
+tom finds the chair.
+tom takes the chair.
+the cat eats fish.
+the boat is white.
+
+alice has a bird.
+the bird likes seeds.
+the cow is an animal.
+john sees the dog near the bus.
+
+the bike is at the kitchen.
+anna goes on the bike.
+the bike moves on the road.
+mary has a dog.
+
+mary is in the lake.
+mary sees the table.
+the table is yellow.
+the fish eats seeds in the water.
+a horse likes grass.
+the red truck is at the village.
+the house is in the village.
+tom gives grass to his horse.
+the box is in the lake.
+a cow lives on the farm.
+the yellow train moves on the railway.
+alice goes to the road with her bird.
+grass is food for the horse.
+the window is near the box.
+the green train is near the lake and the bird is in the lake.
+the school has a brown chair.
+the room has a ball.
+the mouse eats bread in the kitchen.
+the bus moves on the road and the bus is red.
+a car is a vehicle.
+the rabbit likes carrot because carrot is food.
+bob takes the car to the village.
+the rabbit comes from the garden and goes to the road.
+the red train is at the garden.
+a horse lives on the farm.
+
+the door is in the river.
+tom finds the door.
+tom takes the door.
+tom likes his horse.
+this is the farm.
+the mouse eats bread in the kitchen.
+the truck comes from the river.
+the duck is black.
+the car of bob is brown.
+the duck comes from the lake.
+
+the bike is at the road.
+anna goes on the bike.
+the bike moves on the road.
+the fish drinks water.
+the car is blue.
+the cat of john eats fish.
+the dog sleeps in the river.
+the book is on the table and the ball is under the table.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+bob drives the car on the road.
+the red bed is in the lake.
+
+the table is in the room.
+john finds the table.
+john takes the table.
+the green truck moves on the road.
+bob goes to the house with his car.
+the blue book is in the farm.
+anna takes the bike to the lake.
+mary drives the bus.
+anna and the bike walk in the room.
+alice and the bird walk in the village.
+john likes his cat.
+this is john.
+this is a mouse.
+tom sees his horse.
+
+the bike is white.
+anna rides the white bike.
+
+the bike is brown.
+anna rides the brown bike.
+the bird eats seeds in the tree.
+the blue bike is at the city.
+tom sees his horse.
+the fish is an animal.
+the book is on the table and the ball is under the table.
+the cat walks in the village.
+this boat is black.
+the door is on the chair.
+mary sees the rabbit near the bus.
+tom rides the boat.
+the cow sees the box.
+tom goes to the school with his horse.
+the bus comes from the kitchen.
+the cat eats fish.
+the rabbit comes from the garden.
+the rabbit drinks water.
+
+the box is in the river.
+anna finds the box.
+anna takes the box.
+the horse drinks water.
+the cat is green.
+the bird is an animal but the boat is a vehicle.
+the village has a door.
+the dog belongs to mary.
+tom sees his horse in the farm.
+the train is near the road.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+the window is under the box.
+the door is near the bed.
+a ball is in the kitchen.
+anna is at the river.
+bob takes the car to the city.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the school.
+the blue boat is at the village.
+tom rides the train.
+the bird eats seeds in the tree.
+
+the car is at the city.
+bob goes on the car.
+the car moves on the road.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the lake.
+the door is in the farm.
+a truck is a vehicle.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+a cow likes grass.
+
+mary walks with the dog in the road.
+the dog sees a table.
+the dog plays with the table.
+the fish sleeps in the lake.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+the mouse sees the bed and the mouse plays with the bed.
+the table is on the chair.
+the cat finds fish.
+the book is on the table and the ball is under the table.
+a dog lives in the house.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+the village has a door.
+anna sits on the chair in the school.
+anna rides the white train.
+seeds is food for the duck.
+the car is near the road.
+this is the farm.
+
+tom is in the park.
+tom sees the window.
+the window is brown.
+the horse belongs to tom.
+a mouse likes bread.
+the ball is in the house.
+the ball is brown.
+the river has a red book.
+the box is green.
+the rabbit is an animal but the car is a vehicle.
+the duck sleeps in the lake.
+the white boat is near the farm and the duck is in the farm.
+alice drives the white truck.
+tom finds grass and the horse eats the grass.
+alice likes the bird and the train.
+john goes on the car.
+the horse sits on the farm.
+
+anna is in the house.
+anna sees the door.
+the door is blue.
+a truck is a vehicle.
+mary drives the white car.
+a fish is an animal.
+the dog is an animal.
+the fish sees the chair and the fish plays with the chair.
+mary goes to the room with her dog.
+the red bus moves on the road.
+the horse lives on the farm.
+bob takes the door.
+a bird lives in the tree.
+mary goes on the car.
+the horse is an animal and the boat is a vehicle.
+john gives fish to the cat.
+the car belongs to bob.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+the horse sleeps in the garden.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+the cat of john eats fish.
+the truck is near the school.
+john goes on the bike.
+the yellow bag is in the road.
+the table is on the box.
+
+the car is yellow.
+bob drives the yellow car.
+the dog sees the table and the dog plays with the table.
+the dog of mary eats meat.
+
+bob is in the room.
+bob sees the window.
+the window is yellow.
+the cat eats fish in the house.
+the bird finds seeds.
+the cat likes fish because fish is food.
+the car moves on the road and the car is white.
+the room has a ball.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+the black train is near the room and the cow is in the room.
+the cat walks in the school.
+bob has a car.
+tom sees his horse.
+tom finds the window in the farm.
+mary sees her dog.
+alice likes the rabbit and the car.
+a ball is in the farm.
+the cow eats grass and the truck moves on the road.
+a mouse is an animal.
+this bus is brown.
+seeds is food for the bird.
+anna sees her bike.
+alice sees the horse near the car.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+the window is in the road.
+the book is on the table and the ball is under the table.
+the mouse is blue.
+tom likes his horse.
+anna takes the bike to the school.
+john drives the red car.
+the bike moves on the road.
+anna goes on the truck.
+the green car moves on the road.
+the rabbit comes from the garden and goes to the kitchen.
+the window is black.
+john has a cat.
+the bird likes seeds because seeds is food.
+the book is on the table and the ball is under the table.
+a boat is a vehicle.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the park.
+the fish eats seeds in the water.
+this is a fish.
+the cat drinks water.
+john finds fish and the cat eats the fish.
+
+the box is in the park.
+anna finds the box.
+anna takes the box.
+
+the bag is in the house.
+tom finds the bag.
+tom takes the bag.
+a car moves on the road.
+the train comes from the school.
+the cat walks in the room.
+anna drives the truck.
+
+alice walks with the bird in the house.
+the bird sees a table.
+the bird plays with the table.
+the mouse finds bread.
+alice sees her bird in the tree.
+the cow lives on the farm.
+the bag is brown.
+the fish drinks water.
+bob finds the window in the garden.
+the cat walks in the lake.
+the box is under the bed.
+mary finds meat and the dog eats the meat.
+a train moves on the railway.
+the bike of anna is red.
+
+the box is in the village.
+tom finds the box.
+tom takes the box.
+the cat is an animal and the train is a vehicle.
+the mouse is an animal.
+the cat is green.
+the duck eats seeds in the lake.
+tom likes his horse.
+alice sees her bird in the tree.
+the dog runs in the lake.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the river.
+the rabbit finds carrot.
+a mouse lives in the kitchen.
+
+john has a cat.
+the cat likes fish.
+tom likes the bird and the train.
+the house is in the city.
+the mouse eats bread in the kitchen.
+the cow comes from the farm.
+anna likes the bird and the bus.
+the bag is under the box.
+john gives fish to the cat.
+mary goes to the kitchen with her dog.
+a truck is a vehicle.
+alice gives seeds to her bird.
+the bike moves on the road.
+tom takes the horse to the village.
+the window is in the farm.
+anna gives grass to the horse because the horse likes grass.
+the yellow boat moves on the water.
+mary has a dog.
+alice goes on the boat.
+
+the window is in the river.
+bob finds the window.
+bob takes the window.
+the bird eats seeds in the tree.
+anna rides the bike on the road.
+the cow eats grass and the bike moves on the road.
+anna and the bike walk in the school.
+the rabbit runs in the park.
+the table is yellow.
+
+the box is in the road.
+tom finds the box.
+tom takes the box.
+the mouse likes bread because bread is food.
+
+the table is in the farm.
+john finds the table.
+john takes the table.
+
+the bike is at the room.
+anna goes on the bike.
+the bike moves on the road.
+a mouse likes bread.
+mary goes on the bike.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the garden.
+the road has a door.
+the bird walks in the city.
+this is a rabbit.
+the lake has a bed.
+the mouse eats bread.
+
+anna is in the city.
+anna sees the ball.
+the ball is black.
+the rabbit sees the bed and the rabbit plays with the bed.
+the bike of anna is green.
+a cat likes fish.
+the bike is near the room.
+the horse is black.
+the bus moves on the road.
+the bike belongs to anna.
+a mouse is an animal.
+mary likes her dog.
+the bike is near the river.
+the white train is near the river and the cow is in the river.
+the box is near the bed.
+the horse belongs to tom.
+the cat is an animal.
+the box is under the chair.
+
+alice walks with the bird in the garden.
+the bird sees a window.
+the bird plays with the window.
+the horse is an animal but the bike is a vehicle.
+bob drives the red truck.
+mary has a dog.
+
+the bike is at the farm.
+anna goes on the bike.
+the bike moves on the road.
+a ball is in the farm.
+the bike is yellow.
+
+the bag is in the park.
+john finds the bag.
+john takes the bag.
+john goes to the house with his cat.
+anna is at the river.
+the cow sees the door and the cow plays with the door.
+the blue bus is at the room.
+the duck is white.
+alice gives fish to the cat because the cat likes fish.
+bob rides the boat.
+the fish lives in the water.
+tom likes the dog and the truck.
+john likes his cat.
+the chair is near the box.
+the car moves on the road.
+the door is near the chair.
+
+the book is in the park.
+alice finds the book.
+alice takes the book.
+the boat moves on the water and the boat is brown.
+mary takes the dog to the park.
+this boat is white.
+
+the chair is in the road.
+anna finds the chair.
+anna takes the chair.
+the train is near the road.
+a bus moves on the road.
+the horse finds grass.
+this is bob.
+the dog walks in the garden.
+the boat comes from the house.
+the duck runs in the garden.
+the duck sits in the lake.
+john goes to the road with his cat.
+the mouse sleeps in the city.
+the mouse lives in the kitchen.
+the mouse plays with a ball.
+the train is a vehicle.
+the bed is in the kitchen.
+the dog eats meat in the house.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+john is at the farm.
+bob sees the bird near the car.
+
+the book is in the school.
+mary finds the book.
+mary takes the book.
+this is john.
+the park has a green bag.
+tom sees the dog near the bus.
+the fish runs in the road.
+this is the road.
+the rabbit eats carrot.
+the car belongs to bob.
+the rabbit is brown.
+the cow walks in the kitchen.
+alice and the bird walk in the park.
+the car is near the house.
+the black car is at the kitchen.
+alice likes the mouse and the bus.
+the kitchen has a yellow box.
+the cat eats fish.
+the fish likes seeds because seeds is food.
+anna goes to the house with her bike.
+bob sees his car.
+
+the ball is in the village.
+anna finds the ball.
+anna takes the ball.
+the box is black.
+this is the school.
+the blue car is at the river.
+the horse likes grass because grass is food.
+a dog lives in the house.
+the truck moves on the road.
+anna gives seeds to the bird because the bird likes seeds.
+the fish drinks water.
+a bus moves on the road.
+the horse is an animal.
+the blue car is near the village and the cat is in the village.
+tom likes the rabbit and the bus.
+john goes to the park with his cat.
+the cat lives in the house but the bus is on the road.
+the bus is near the park.
+the garden has a green bag.
+the white train moves on the railway.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the rabbit runs in the kitchen.
+the mouse plays with a table.
+bob likes his car.
+the train comes from the house.
+john goes on the truck.
+the bag is in the garden.
+a duck is an animal.
+
+anna has a bike.
+the bike is blue.
+the bike moves on the road.
+the window is in the road.
+the mouse eats bread and the bike moves on the road.
+anna finds the book in the lake.
+anna sees the cow near the train.
+mary likes the duck and the bike.
+tom sits on the bed in the village.
+tom and the horse walk in the city.
+the cat walks in the garden.
+the bird sits in the tree.
+the door is blue.
+mary sees her dog.
+a bed is in the kitchen.
+the yellow truck moves on the road.
+alice likes the horse and the bike.
+the train is near the garden.
+
+the bike is brown.
+anna rides the brown bike.
+the duck plays with a chair.
+the mouse lives in the kitchen but the car is on the road.
+the white truck moves on the road.
+a table is in the school.
+bob goes on the truck.
+the bike of anna is brown.
+the rabbit eats carrot.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+the book is on the table and the ball is under the table.
+the chair is on the box.
+seeds is food for the bird.
+the cat sleeps in the park.
+
+john walks with the cat in the city.
+the cat sees a box.
+the cat plays with the box.
+the duck is red.
+
+john is in the school.
+john sees the box.
+the box is blue.
+
+the window is in the school.
+mary finds the window.
+mary takes the window.
+a boat moves on the water.
+the horse is brown.
+the bike is a vehicle.
+the fish likes seeds because seeds is food.
+mary goes to the kitchen with her dog.
+a bike moves on the road.
+the train moves on the railway and the train is red.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+the cat likes fish because fish is food.
+john goes to the river with his cat.
+
+mary is in the house.
+mary sees the ball.
+the ball is white.
+mary goes to the house with her dog.
+alice has a bird.
+alice sits on the box in the room.
+the bike of anna is blue.
+the bike belongs to anna.
+the horse sleeps in the farm.
+this is anna.
+john sees the duck near the car.
+the horse comes from the farm and goes to the room.
+the fish sleeps in the school.
+the rabbit is an animal and the train is a vehicle.
+the rabbit comes from the garden and goes to the school.
+this is a cat.
+tom and the horse walk in the village.
+bob and the car walk in the city.
+the duck eats seeds.
+tom finds the book in the school.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+the car moves on the road.
+this is a cow.
+tom has a horse.
+
+anna has a bike.
+the bike is red.
+the bike moves on the road.
+anna takes the box.
+tom goes on the truck.
+john likes his cat.
+this is mary.
+the green bus moves on the road.
+this is a dog.
+the table is on the table.
+
+bob is in the kitchen.
+bob sees the bed.
+the bed is brown.
+a rabbit lives in the garden.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+tom goes to the village with his horse.
+the car belongs to bob.
+the fish eats seeds in the water.
+the dog sees the book and the dog plays with the book.
+
+mary walks with the dog in the kitchen.
+the dog sees a book.
+the dog plays with the book.
+a truck is a vehicle.
+john sees his cat in the house.
+a bird lives in the tree.
+a fish likes seeds.
+alice likes the fish and the truck.
+the chair is in the village.
+
+john has a cat.
+the cat sees a fish.
+the cat eats the fish.
+the window is in the river.
+the school is in the village.
+the truck is near the farm.
+the cat likes fish because fish is food.
+tom sees the rabbit near the truck.
+alice goes to the city with her bird.
+
+the bird lives in the tree.
+alice sees the bird.
+the bird belongs to alice.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the book is on the table and the ball is under the table.
+the book is on the table and the ball is under the table.
+the rabbit eats carrot in the garden.
+tom has a horse.
+the duck likes seeds because seeds is food.
+anna and the bike walk in the kitchen.
+bob goes to the kitchen with his car.
+tom is at the road.
+this is a duck.
+the cow is an animal.
+john sees his cat.
+the book is on the table and the ball is under the table.
+the window is near the table.
+mary is at the house.
+the table is blue.
+
+the box is in the kitchen.
+anna finds the box.
+anna takes the box.
+bob goes on the bike.
+a cat is an animal.
+the mouse is an animal but the bike is a vehicle.
+
+the car is black.
+bob drives the black car.
+the horse eats grass.
+
+the bed is in the room.
+tom finds the bed.
+tom takes the bed.
+the car moves on the road and the car is brown.
+
+anna is in the village.
+anna sees the table.
+the table is green.
+the white truck is at the park.
+the mouse is an animal and the train is a vehicle.
+anna and the bike walk in the road.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+the door is in the house.
+john takes the cat to the school.
+mary goes on the train.
+
+the bike is at the park.
+anna goes on the bike.
+the bike moves on the road.
+the mouse lives in the kitchen.
+this is a dog.
+alice finds the table in the park.
+
+mary is in the school.
+mary sees the window.
+the window is black.
+the bird comes from the tree.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the room.
+the cow plays with a bed.
+john sees the horse near the bus.
+the bike belongs to anna.
+the cat walks in the river.
+the dog runs in the park.
+the garden is in the city.
+john likes the fish and the boat.
+the train moves on the railway and the train is blue.
+john likes his cat.
+the bird eats seeds.
+the duck is an animal but the car is a vehicle.
+a mouse is an animal.
+the yellow door is in the school.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the house.
+the rabbit sees the bed and the rabbit plays with the bed.
+the book is on the table and the ball is under the table.
+the fish sees the window.
+
+bob is in the room.
+bob sees the table.
+the table is green.
+the cat sees the box.
+the bird likes seeds because seeds is food.
+alice has a bird.
+mary goes on the train.
+the bird comes from the tree.
+
+the window is in the city.
+mary finds the window.
+mary takes the window.
+anna takes the window.
+tom gives meat to the dog because the dog likes meat.
+grass is food for the cow.
+a bus is a vehicle.
+the mouse is an animal but the boat is a vehicle.
+alice drives the bus.
+
+the car is at the farm.
+bob goes on the car.
+the car moves on the road.
+the box is blue.
+the red boat moves on the water.
+the bird sees the box.
+tom gives grass to the horse.
+tom likes the bird and the bus.
+alice likes the cat and the train.
+the window is in the park.
+alice is at the farm.
+alice is at the farm.
+the fish is yellow.
+the white car is at the farm.
+mary has a dog.
+the rabbit is an animal and the train is a vehicle.
+alice gives seeds to her bird.
+the fish comes from the water.
+the white bike moves on the road.
+tom gives grass to his horse.
+alice goes to the farm with her bird.
+the duck likes seeds because seeds is food.
+the train is near the river.
+the car is a vehicle.
+the mouse sees the ball.
+a dog lives in the house.
+john takes the cat to the village.
+
+the bike is yellow.
+anna rides the yellow bike.
+
+the chair is in the garden.
+anna finds the chair.
+anna takes the chair.
+the dog likes meat because meat is food.
+mary is at the house.
+grass is food for the cow.
+
+the table is in the river.
+john finds the table.
+john takes the table.
+
+the ball is in the road.
+anna finds the ball.
+anna takes the ball.
+the cow plays with a ball.
+the bike belongs to anna.
+anna sees the duck near the truck.
+a cat lives in the house.
+a fish likes seeds.
+the red bus is at the river.
+mary and the dog walk in the room.
+
+alice walks with the bird in the village.
+the bird sees a book.
+the bird plays with the book.
+tom likes his horse.
+the garden has a chair.
+
+anna has a bike.
+the bike is blue.
+the bike moves on the road.
+the cow eats grass in the farm.
+alice is at the garden.
+
+alice has a bird.
+the bird likes seeds.
+the fish is red.
+the cow runs in the farm.
+
+the bed is in the road.
+anna finds the bed.
+anna takes the bed.
+the cow eats grass in the farm.
+the white train is at the lake.
+the ball is near the chair.
+the mouse runs in the river.
+tom gives grass to the horse.
+the window is in the village.
+the yellow bed is in the farm.
+tom sees the rabbit near the train.
+the book is on the table and the ball is under the table.
+a table is in the road.
+the boat is a vehicle.
+the cow lives on the farm.
+the red boat moves on the water.
+the mouse finds bread.
+the book is near the chair.
+the cat runs in the house.
+the cat sees the box.
+the window is on the table.
+a fish likes seeds.
+the dog lives in the house but the bus is on the road.
+the horse comes from the farm and goes to the house.
+the rabbit finds carrot.
+the duck is an animal and the bike is a vehicle.
+
+alice walks with the bird in the garden.
+the bird sees a table.
+the bird plays with the table.
+john and the cat walk in the room.
+the horse is an animal and the bus is a vehicle.
+the bird sleeps in the house.
+tom drives the car.
+
+bob is in the city.
+bob sees the table.
+the table is brown.
+the window is in the room.
+the box is near the table.
+the rabbit is an animal and the car is a vehicle.
+the window is yellow.
+
+the book is in the lake.
+tom finds the book.
+tom takes the book.
+the rabbit walks in the village.
+the bus moves on the road and the bus is blue.
+
+john has a cat.
+the cat likes fish.
+the book is on the table and the ball is under the table.
+bob takes the door.
+bob likes the mouse and the boat.
+
+mary walks with the dog in the park.
+the dog sees a chair.
+the dog plays with the chair.
+mary finds meat and the dog eats the meat.
+john gives fish to his cat.
+
+the door is in the road.
+john finds the door.
+john takes the door.
+a mouse likes bread.
+the cat of john eats fish.
+
+the car is at the house.
+bob goes on the car.
+the car moves on the road.
+john sees his cat in the house.
+
+the box is in the farm.
+bob finds the box.
+bob takes the box.
+the horse runs in the city.
+the door is brown.
+the mouse finds bread.
+the window is in the farm.
+
+mary is in the kitchen.
+mary sees the ball.
+the ball is green.
+the cat finds fish.
+the bag is white.
+the fish drinks water.
+a bike moves on the road.
+the duck is red.
+alice gives grass to the horse because the horse likes grass.
+
+john has a cat.
+the cat likes fish.
+bob drives the green truck.
+the white truck is at the village.
+a bird likes seeds.
+the rabbit runs in the road.
+the truck is near the village.
+bob goes to the road with his car.
+tom is at the room.
+a train moves on the railway.
+tom rides the train.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+mary takes the dog to the school.
+the car is a vehicle.
+the brown bus moves on the road.
+john finds fish and the cat eats the fish.
+a dog likes meat.
+
+john has a cat.
+the cat sees a fish.
+the cat eats the fish.
+the horse eats grass.
+the dog is red.
+the dog plays with a table.
+the blue truck is near the park and the bird is in the park.
+a rabbit likes carrot.
+the fish lives in the water but the boat is on the water.
+
+tom walks with the horse in the garden.
+the horse sees a door.
+the horse plays with the door.
+a bird is an animal.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+
+the bed is in the garden.
+bob finds the bed.
+bob takes the bed.
+
+the dog lives in the house.
+mary sees the dog.
+the dog belongs to mary.
+tom takes the horse to the garden.
+the bus moves on the road.
+the window is in the river.
+the duck finds seeds.
+john gives the chair to tom.
+the rabbit walks in the river.
+the cow eats grass.
+a bed is in the kitchen.
+the red bus moves on the road.
+the window is in the garden.
+bob rides the bike.
+a bird likes seeds.
+the mouse finds bread.
+
+anna is in the garden.
+anna sees the door.
+the door is yellow.
+mary likes her dog.
+the horse is black.
+bob likes his car.
+
+tom has a horse.
+the horse likes grass.
+a bike moves on the road.
+the cat belongs to john.
+the bird comes from the tree.
+the train comes from the house.
+the dog plays with a ball.
+the fish sits in the water.
+the bed is in the school.
+the bus comes from the city.
+the chair is brown.
+john likes the rabbit and the train.
+bob and the car walk in the school.
+the duck finds seeds.
+the horse sees the window and the horse plays with the window.
+john goes to the city with his cat.
+the bike is a vehicle.
+anna is at the village.
+tom sees his horse in the farm.
+the train moves on the railway.
+the house is in the city.
+the yellow door is in the road.
+this is tom.
+mary sits on the bed in the house.
+this is a fish.
+the car moves on the road.
+the book is on the table and the ball is under the table.
+the white bike is near the garden and the mouse is in the garden.
+bob has a car.
+the bike moves on the road.
+the book is on the table and the ball is under the table.
+
+alice has a bird.
+alice gives seeds to her bird.
+the bird eats the seeds.
+a horse lives on the farm.
+a bird is an animal.
+the fish sits in the water.
+this is alice.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+a cat lives in the house.
+the green boat is at the kitchen.
+
+the bike is white.
+anna rides the white bike.
+tom drives the truck.
+anna has a bike.
+the chair is under the chair.
+the horse comes from the farm and goes to the room.
+the car is a vehicle.
+mary gives meat to her dog.
+the door is in the park.
+the rabbit is an animal and the train is a vehicle.
+bob takes the window.
+
+alice walks with the bird in the house.
+the bird sees a window.
+the bird plays with the window.
+the fish eats seeds in the water.
+
+bob has a car.
+the car is black.
+the car moves on the road.
+the rabbit sits in the garden.
+a horse is an animal.
+bob finds the window in the park.
+the rabbit is an animal but the train is a vehicle.
+a train moves on the railway.
+the duck runs in the garden.
+mary and the dog walk in the garden.
+the car belongs to bob.
+alice is at the village.
+the fish is an animal but the bus is a vehicle.
+
+the table is in the city.
+tom finds the table.
+tom takes the table.
+this is a mouse.
+the duck sleeps in the kitchen.
+the dog is an animal but the boat is a vehicle.
+this is mary.
+mary sits on the box in the kitchen.
+this is a dog.
+the car is near the park.
+this is anna.
+the cat is an animal.
+john is at the farm.
+the mouse finds bread.
+the horse drinks water.
+john takes the cat to the kitchen.
+john finds fish and the cat eats the fish.
+this is bob.
+the bird lives in the tree.
+a horse is an animal.
+
+the table is in the house.
+mary finds the table.
+mary takes the table.
+the dog lives in the house.
+
+mary has a dog.
+the dog likes meat.
+the dog sits in the house.
+john goes to the river with his cat.
+tom has a horse.
+the house has a ball.
+the dog is blue.
+alice likes the mouse and the bus.
+the dog comes from the house and goes to the house.
+anna rides the white boat.
+bob and the car walk in the kitchen.
+the horse sees the window and the horse plays with the window.
+mary takes the door.
+anna has a bike.
+this is bob.
+this is anna.
+mary sees her dog in the house.
+tom sees his horse.
+
+the table is in the house.
+bob finds the table.
+bob takes the table.
+this is a cow.
+the bike belongs to anna.
+the train moves on the railway and the train is red.
+the window is in the room.
+tom goes on the bus.
+tom gives grass to the horse.
+bob goes to the road with his car.
+the box is in the kitchen.
+mary gives meat to her dog.
+the table is near the chair.
+mary goes to the garden with her dog.
+a bike moves on the road.
+the horse drinks water.
+alice goes to the park with her bird.
+a duck likes seeds.
+the door is in the lake.
+the green boat is at the house.
+the bird of alice eats seeds.
+
+the chair is in the room.
+anna finds the chair.
+anna takes the chair.
+this is bob.
+the car moves on the road.
+this train is red.
+the car is a vehicle.
+the blue train moves on the railway.
+the cow sees the chair and the cow plays with the chair.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+the bird is an animal but the boat is a vehicle.
+john sees the mouse near the truck.
+seeds is food for the bird.
+alice drives the black car.
+
+the car is brown.
+bob drives the brown car.
+
+the chair is in the farm.
+mary finds the chair.
+mary takes the chair.
+the window is in the room.
+john takes the table.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+
+the book is in the room.
+john finds the book.
+john takes the book.
+bob goes on the truck.
+alice likes her bird.
+
+bob is in the park.
+bob sees the book.
+the book is green.
+the bird eats seeds.
+
+anna has a bike.
+the bike is red.
+the bike moves on the road.
+john takes the bed.
+the cat eats fish and the train moves on the railway.
+anna goes to the village with her bike.
+the horse belongs to tom.
+the cow eats grass and the car moves on the road.
+this is the house.
+the mouse is an animal but the truck is a vehicle.
+
+the box is in the garden.
+mary finds the box.
+mary takes the box.
+the bus is near the park.
+the rabbit drinks water.
+the door is in the city.
+the mouse eats bread.
+tom likes his horse.
+the car of bob is green.
+a bus moves on the road.
+the train is a vehicle.
+the car of bob is black.
+john takes the cat to the school.
+the table is under the box.
+grass is food for the horse.
+the fish comes from the water.
+the cat is an animal but the bike is a vehicle.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the park.
+the book is blue.
+mary rides the blue boat.
+the room is in the city.
+this is the kitchen.
+a cow likes grass.
+the bus is a vehicle.
+anna gives the bag to bob.
+alice finds seeds and the bird eats the seeds.
+a truck is a vehicle.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+alice gives seeds to the bird.
+the window is in the lake.
+the fish likes seeds because seeds is food.
+the farm is in the city.
+bob goes on the car.
+a mouse likes bread.
+john gives fish to the cat.
+this is a rabbit.
+this is a fish.
+a bird lives in the tree.
+
+mary has a dog.
+the dog likes meat.
+tom gives grass to the horse.
+the door is in the farm.
+tom gives grass to his horse.
+john and the cat walk in the river.
+the cow is an animal but the train is a vehicle.
+the cat eats fish.
+
+the bag is in the farm.
+alice finds the bag.
+alice takes the bag.
+mary is at the lake.
+mary finds the door in the city.
+alice is at the room.
+the village has a chair.
+john gives the ball to bob.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the lake.
+the dog runs in the village.
+the brown table is in the park.
+the book is under the table.
+the boat moves on the water.
+the door is in the room.
+
+john is in the city.
+john sees the door.
+the door is brown.
+this is a rabbit.
+alice takes the bird to the farm.
+bob takes the bed.
+alice has a bird.
+a mouse likes bread.
+this is a rabbit.
+the box is brown.
+alice sees the duck near the bus.
+the bus is green.
+mary takes the dog to the house.
+a fish lives in the water.
+a dog is an animal.
+the cow sees the bed.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+the fish sleeps in the lake.
+the cat runs in the farm.
+a duck is an animal.
+the brown boat is near the garden and the bird is in the garden.
+the duck sleeps in the farm.
+the bird sleeps in the river.
+a fish lives in the water.
+the door is in the farm.
+this is the lake.
+the bird walks in the house.
+this is the room.
+the cat of john eats fish.
+the book is on the box.
+anna sits on the box in the park.
+the cat eats fish and the boat moves on the water.
+a mouse lives in the kitchen.
+this is the house.
+anna finds the ball in the river.
+
+alice walks with the bird in the road.
+the bird sees a book.
+the bird plays with the book.
+the lake is in the village.
+the dog likes meat because meat is food.
+a bird lives in the tree.
+the cow lives on the farm but the truck is on the road.
+this is a horse.
+alice likes the mouse and the car.
+anna rides the bike on the road.
+the bird lives in the tree.
+mary goes to the river with her dog.
+the cat is an animal and the bike is a vehicle.
+this is tom.
+bob drives the truck.
+the brown bus moves on the road.
+a dog lives in the house.
+alice sits on the table in the kitchen.
+anna takes the bike to the room.
+the box is on the box.
+
+bob is in the house.
+bob sees the book.
+the book is black.
+the horse is an animal but the boat is a vehicle.
+the cat runs in the village.
+the bird sleeps in the lake.
+the mouse lives in the kitchen.
+the door is near the chair.
+the duck plays with a door.
+the bike moves on the road.
+the bird is an animal and the bike is a vehicle.
+anna goes to the kitchen with her bike.
+alice gives seeds to the bird because the bird likes seeds.
+tom finds grass and the horse eats the grass.
+the duck sleeps in the city.
+the dog runs in the garden.
+
+the bike is green.
+anna rides the green bike.
+the dog sees the bag.
+the boat is near the kitchen.
+
+the bike is black.
+anna rides the black bike.
+the cow plays with a ball.
+
+anna has a bike.
+the bike is green.
+the bike moves on the road.
+
+the car is at the school.
+bob goes on the car.
+the car moves on the road.
+the door is in the city.
+the cat lives in the house but the train is on the railway.
+grass is food for the horse.
+anna rides the bike.
+the fish sees the chair and the fish plays with the chair.
+
+mary has a dog.
+mary gives meat to her dog.
+the dog eats the meat.
+the cat sees the chair.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the farm.
+john sees his cat.
+the train comes from the garden.
+
+the bed is in the school.
+anna finds the bed.
+anna takes the bed.
+a boat moves on the water.
+anna sees her bike.
+the car is blue.
+the park has a window.
+
+the window is in the house.
+bob finds the window.
+bob takes the window.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+the mouse eats bread and the boat moves on the water.
+anna sees her bike.
+anna finds the chair in the park.
+
+anna has a bike.
+the bike is brown.
+the bike moves on the road.
+the duck is an animal and the boat is a vehicle.
+the brown boat is near the farm and the dog is in the farm.
+anna rides the bike.
+a horse likes grass.
+the dog is brown.
+the green boat moves on the water.
+
+the bike is red.
+anna rides the red bike.
+alice gives seeds to the bird.
+
+the bag is in the room.
+bob finds the bag.
+bob takes the bag.
+the mouse finds bread.
+bob goes to the room with his car.
+the yellow truck is at the lake.
+
+john walks with the cat in the kitchen.
+the cat sees a bed.
+the cat plays with the bed.
+the truck is near the lake.
+the car is near the house.
+
+bob has a car.
+the car is black.
+the car moves on the road.
+mary gives grass to the cow because the cow likes grass.
+the truck moves on the road and the truck is yellow.
+the book is under the box.
+the bag is in the park.
+anna drives the red bus.
+the car is a vehicle.
+the dog finds meat.
+
+john has a cat.
+the cat sees a fish.
+the cat eats the fish.
+the rabbit sleeps in the farm.
+the cat is an animal.
+bread is food for the mouse.
+the dog eats meat.
+the bird belongs to alice.
+anna sees her bike.
+the mouse eats bread in the kitchen.
+the dog walks in the city.
+the dog is an animal but the boat is a vehicle.
+mary gives carrot to the rabbit because the rabbit likes carrot.
+the boat comes from the farm.
+anna likes her bike.
+john goes to the road with his cat.
+
+john is in the school.
+john sees the book.
+the book is black.
+tom drives the green truck.
+bread is food for the mouse.
+bob goes to the room with his car.
+
+the bike is green.
+anna rides the green bike.
+alice sees her bird.
+the rabbit eats carrot in the garden.
+a car moves on the road.
+the rabbit sees the ball.
+the fish sits in the water.
+the mouse eats bread in the kitchen.
+anna rides the brown bike.
+a duck lives in the lake.
+the car is white.
+this is a mouse.
+the brown bus is at the river.
+mary drives the white truck.
+a box is in the road.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the lake.
+a horse is an animal.
+the farm has a brown table.
+the cat lives in the house but the boat is on the water.
+the red train is at the park.
+mary sees the dog near the bike.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the room is in the village.
+the fish eats seeds in the water.
+the bike of anna is red.
+the village is in the village.
+the bird is an animal but the boat is a vehicle.
+the train is near the kitchen.
+the rabbit is an animal.
+the bird plays with a table.
+tom likes the fish and the truck.
+the train moves on the railway and the train is green.
+the park has a brown bed.
+the duck drinks water.
+
+alice is in the river.
+alice sees the bed.
+the bed is red.
+tom takes the horse to the park.
+alice likes her bird.
+this train is white.
+the black car is at the garden.
+the dog lives in the house.
+tom likes the rabbit and the train.
+the cow is white.
+the duck is white.
+the bed is under the box.
+the door is in the kitchen.
+anna goes on the bus.
+alice likes her bird.
+
+bob is in the school.
+bob sees the window.
+the window is red.
+a bike is a vehicle.
+alice sees the cow near the truck.
+the blue bus moves on the road.
+john sees his cat in the house.
+
+the bike is white.
+anna rides the white bike.
+tom sees his horse.
+the train is white.
+the bus moves on the road and the bus is green.
+the mouse lives in the kitchen but the car is on the road.
+john has a cat.
+john sees the mouse near the bike.
+a bus is a vehicle.
+the window is in the river.
+the cat sits in the house.
+bob is at the school.
+the truck moves on the road.
+the car belongs to bob.
+a boat moves on the water.
+this is the room.
+the car of bob is yellow.
+this is john.
+a cow is an animal.
+anna takes the bike to the garden.
+mary sees the cow near the car.
+anna goes on the bus.
+the mouse comes from the kitchen and goes to the school.
+bob drives the car on the road.
+the bike of anna is black.
+this is bob.
+this is a cow.
+john sees his cat in the house.
+the horse is an animal.
+
+alice walks with the bird in the room.
+the bird sees a table.
+the bird plays with the table.
+
+anna is in the village.
+anna sees the book.
+the book is yellow.
+alice sits on the table in the garden.
+alice rides the red boat.
+john likes his cat.
+seeds is food for the bird.
+anna gives seeds to the duck because the duck likes seeds.
+mary sees the mouse near the boat.
+alice gives seeds to her bird.
+the window is in the house.
+the green bus moves on the road.
+john likes his cat.
+the red boat moves on the water.
+bob drives the car on the road.
+alice is at the city.
+the horse runs in the river.
+the brown truck moves on the road.
+this is the park.
+
+mary has a dog.
+the dog sees a meat.
+the dog eats the meat.
+the cow sleeps in the garden.
+anna sees her bike.
+bob has a car.
+
+mary is in the room.
+mary sees the box.
+the box is green.
+the door is in the school.
+
+the door is in the road.
+anna finds the door.
+anna takes the door.
+the dog eats meat and the truck moves on the road.
+the bag is near the table.
+
+mary has a dog.
+the dog likes meat.
+the dog sleeps in the house.
+the boat comes from the park.
+the car belongs to bob.
+
+the table is in the room.
+anna finds the table.
+anna takes the table.
+alice goes to the lake with her bird.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the river.
+bob drives the car on the road.
+a chair is in the city.
+the cat eats fish in the house.
+
+the box is in the river.
+bob finds the box.
+bob takes the box.
+alice goes on the truck.
+the mouse comes from the kitchen and goes to the farm.
+the dog runs in the city.
+
+bob has a car.
+the car is red.
+the car moves on the road.
+the cow is green.
+the dog comes from the house.
+the red car moves on the road.
+the table is on the chair.
+
+the car is white.
+bob drives the white car.
+alice and the bird walk in the room.
+alice finds seeds and the bird eats the seeds.
+alice and the bird walk in the farm.
+a boat moves on the water.
+the garden has a chair.
+the mouse sleeps in the city.
+
+the window is in the house.
+mary finds the window.
+mary takes the window.
+the bike moves on the road.
+anna is at the garden.
+tom takes the horse to the room.
+
+the car is yellow.
+bob drives the yellow car.
+anna finds the box in the garden.
+the cow drinks water.
+the rabbit comes from the garden and goes to the lake.
+a rabbit is an animal.
+the fish sits in the water.
+the dog belongs to mary.
+the blue bed is in the village.
+this is bob.
+the car of bob is yellow.
+the bird walks in the farm.
+the bird runs in the village.
+mary likes the dog and the car.
+the horse is an animal.
+the bike is near the village.
+the blue door is in the garden.
+the fish finds seeds.
+the village has a yellow box.
+the cow walks in the farm.
+tom finds grass and the horse eats the grass.
+bob drives the car on the road.
+the book is on the table and the ball is under the table.
+the bus moves on the road and the bus is blue.
+
+anna is in the city.
+anna sees the chair.
+the chair is yellow.
+john goes on the train.
+tom goes on the truck.
+the yellow bus is near the village and the rabbit is in the village.
+the train moves on the railway and the train is black.
+a mouse lives in the kitchen.
+
+alice is in the garden.
+alice sees the book.
+the book is blue.
+alice gives seeds to her bird.
+
+mary has a dog.
+the dog likes meat.
+the duck sees the box.
+the bag is near the box.
+a truck moves on the road.
+
+anna has a bike.
+the bike is red.
+the bike moves on the road.
+the cow sees the bag.
+the bike is near the lake.
+alice gives grass to the horse because the horse likes grass.
+john finds fish and the cat eats the fish.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+tom gives grass to the horse.
+the dog eats meat in the house.
+the box is in the park.
+the dog runs in the lake.
+seeds is food for the duck.
+the mouse lives in the kitchen but the truck is on the road.
+alice finds seeds and the bird eats the seeds.
+the door is in the road.
+this is alice.
+the cat eats fish and the bike moves on the road.
+grass is food for the horse.
+this is the river.
+mary sits on the bed in the room.
+
+the bed is in the lake.
+bob finds the bed.
+bob takes the bed.
+anna sees her bike.
+the bird eats seeds in the tree.
+john rides the train.
+the table is near the chair.
+alice finds seeds and the bird eats the seeds.
+alice likes the mouse and the truck.
+the bird of alice eats seeds.
+mary gives meat to her dog.
+a fish lives in the water.
+the duck eats seeds.
+the cat sits in the house.
+
+john has a cat.
+the cat likes fish.
+the cat sleeps in the park.
+the mouse likes bread because bread is food.
+the book is white.
+anna rides the bike on the road.
+the bird likes seeds because seeds is food.
+the cow likes grass because grass is food.
+
+the cat lives in the house.
+john sees the cat.
+the cat belongs to john.
+john has a cat.
+the horse of tom eats grass.
+the duck comes from the lake and goes to the lake.
+this is a cow.
+this is a rabbit.
+anna has a bike.
+anna and the bike walk in the farm.
+the fish comes from the water and goes to the school.
+
+mary walks with the dog in the lake.
+the dog sees a table.
+the dog plays with the table.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+john gives fish to his cat.
+mary is at the room.
+anna drives the car.
+
+the bike is blue.
+anna rides the blue bike.
+tom sees the rabbit near the truck.
+bob finds the door in the house.
+alice is at the room.
+mary and the dog walk in the city.
+the door is in the room.
+anna has a bike.
+a car moves on the road.
+
+mary is in the lake.
+mary sees the ball.
+the ball is black.
+the red window is in the room.
+the dog sees the book and the dog plays with the book.
+the horse sleeps in the school.
+the chair is in the city.
+a duck lives in the lake.
+the door is in the park.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+the fish sits in the water.
+tom and the horse walk in the room.
+the white bike is near the lake and the horse is in the lake.
+john likes the rabbit and the car.
+the bag is brown.
+anna rides the bike on the road.
+the train comes from the school.
+alice takes the bird to the lake.
+a train is a vehicle.
+mary gives meat to her dog.
+the green truck is near the city and the horse is in the city.
+the door is in the park.
+a train moves on the railway.
+bob is at the park.
+bob drives the car on the road.
+the green bus is near the river and the rabbit is in the river.
+anna is at the garden.
+
+the bag is in the room.
+tom finds the bag.
+tom takes the bag.
+tom gives grass to his horse.
+this is a rabbit.
+tom finds grass and the horse eats the grass.
+mary rides the black bike.
+anna goes on the car.
+the rabbit is an animal and the car is a vehicle.
+john gives fish to the cat because the cat likes fish.
+the mouse is black.
+tom and the horse walk in the school.
+the horse belongs to tom.
+
+mary is in the road.
+mary sees the box.
+the box is red.
+alice gives grass to the horse because the horse likes grass.
+the rabbit runs in the room.
+the farm has a yellow window.
+the ball is yellow.
+the black train is near the garden and the horse is in the garden.
+the rabbit lives in the garden.
+a cat likes fish.
+
+the bike is at the kitchen.
+anna goes on the bike.
+the bike moves on the road.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+bob gives grass to the horse because the horse likes grass.
+the fish eats seeds.
+mary has a dog.
+the lake has a white window.
+bob and the car walk in the garden.
+the horse is an animal but the car is a vehicle.
+the bird walks in the farm.
+bob is at the kitchen.
+a bike moves on the road.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+the rabbit comes from the garden and goes to the park.
+the fish walks in the village.
+the dog eats meat.
+anna sees her bike.
+the bird eats seeds.
+the blue bus is at the house.
+the bird lives in the tree but the bus is on the road.
+the boat moves on the water and the boat is white.
+the rabbit comes from the garden.
+a ball is in the garden.
+the book is on the table and the ball is under the table.
+the cow sits on the farm.
+the fish eats seeds and the bike moves on the road.
+john goes on the train.
+a mouse likes bread.
+a train moves on the railway.
+mary likes her dog.
+alice has a bird.
+john gives fish to his cat.
+mary takes the box.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+the rabbit drinks water.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+this boat is green.
+a cat likes fish.
+
+tom walks with the horse in the kitchen.
+the horse sees a bed.
+the horse plays with the bed.
+a fish lives in the water.
+this is the village.
+alice sees the bird near the bus.
+the park has a blue ball.
+the kitchen is in the village.
+tom drives the bus.
+the cat runs in the farm.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the room.
+a bus is a vehicle.
+the fish eats seeds and the train moves on the railway.
+this is a fish.
+
+alice has a bird.
+the bird likes seeds.
+the bird sleeps in the park.
+the book is on the table and the ball is under the table.
+
+alice walks with the bird in the room.
+the bird sees a door.
+the bird plays with the door.
+a dog is an animal.
+
+tom has a horse.
+the horse sees a grass.
+the horse eats the grass.
+
+the door is in the city.
+john finds the door.
+john takes the door.
+the duck comes from the lake.
+a boat is a vehicle.
+the fish drinks water.
+the bus moves on the road and the bus is green.
+
+john is in the city.
+john sees the box.
+the box is blue.
+this is john.
+the mouse is green.
+
+bob is in the farm.
+bob sees the table.
+the table is yellow.
+mary finds meat and the dog eats the meat.
+
+mary has a dog.
+the dog likes meat.
+the window is in the lake.
+the horse belongs to tom.
+meat is food for the dog.
+the bike is a vehicle.
+the door is yellow.
+tom sees the mouse near the car.
+the truck moves on the road.
+the mouse is brown.
+the horse sees the door.
+tom likes his horse.
+
+alice has a bird.
+the bird sees a seeds.
+the bird eats the seeds.
+the cow walks in the road.
+tom sees his horse in the farm.
+
+anna is in the school.
+anna sees the bag.
+the bag is brown.
+a bird likes seeds.
+the bird is an animal but the bike is a vehicle.
+
+anna has a bike.
+the bike is red.
+the bike moves on the road.
+the cat belongs to john.
+the bike moves on the road and the bike is black.
+bob takes the book.
+
+the bike is at the city.
+anna goes on the bike.
+the bike moves on the road.
+john likes the rabbit and the car.
+
+anna has a bike.
+the bike is blue.
+the bike moves on the road.
+the fish sleeps in the school.
+seeds is food for the duck.
+
+alice has a bird.
+the bird likes seeds.
+the window is in the river.
+the mouse sees the door and the mouse plays with the door.
+the car comes from the garden.
+
+bob has a car.
+the car is yellow.
+the car moves on the road.
+
+alice is in the kitchen.
+alice sees the bag.
+the bag is black.
+bob likes his car.
+the dog lives in the house.
+john has a cat.
+john goes to the house with his cat.
+the car is yellow.
+a fish is an animal.
+seeds is food for the duck.
+the ball is in the lake.
+bob gives the box to bob.
+
+tom has a horse.
+the horse likes grass.
+the horse sleeps in the village.
+the bus is near the room.
+the window is on the table.
+
+tom has a horse.
+tom gives grass to his horse.
+the horse eats the grass.
+the dog eats meat in the house.
+the car comes from the city.
+the cat sleeps in the farm.
+this is anna.
+
+john has a cat.
+john gives fish to his cat.
+the cat eats the fish.
+the duck sleeps in the kitchen.
+
+the horse lives on the farm.
+tom sees the horse.
+the horse belongs to tom.
+the window is in the village.
+the bus moves on the road.
+tom finds grass and the horse eats the grass.
+this is the school.
+mary takes the ball.
+the door is in the farm.
+
+mary walks with the dog in the garden.
+the dog sees a box.
+the dog plays with the box.
+a rabbit lives in the garden.
+the rabbit sleeps in the school.
+
+john walks with the cat in the river.
+the cat sees a box.
+the cat plays with the box.
+the book is on the bed.
+bob takes the car to the room.
+the book is in the room.
+the door is in the city.
+john takes the box.
+a duck likes seeds.
+the truck is near the village.
+bob rides the train.
+john gives the bag to tom.
+the bike of anna is black.
+a boat is a vehicle.
+the fish lives in the water.
+the mouse sees the bed and the mouse plays with the bed.
+the car moves on the road and the car is blue.
+the dog is an animal.
+anna takes the bike to the city.
+bob likes the duck and the car.
+a rabbit likes carrot.
+the mouse sits in the kitchen.
+the table is black.
+the ball is under the table.
+john gives the book to tom.
+a car is a vehicle.
+the car comes from the park.
+the rabbit comes from the garden and goes to the lake.
+the bird comes from the tree.
+the train is near the village.
